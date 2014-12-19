@@ -1,0 +1,56 @@
+#include<cstdio>
+#include<iostream>
+#include<cstdlib>
+#include<algorithm>
+#include<ctime>
+#include<cctype>
+#include<cmath>
+#include<string>
+#include<cstring>
+#include<stack>
+#include<queue>
+#include<list>
+#include<vector>
+#include<map>
+#include<set>
+#define sqr(x) ((x)*(x))
+#define LL long long
+#define itn int
+#define INF 0x3f3f3f3f
+#define PI 3.1415926535897932384626
+#define eps 1e-10
+#define mm 100007
+
+using namespace std;
+
+int a[mm],l[mm],r[mm],q[mm];
+LL sum[mm];
+itn top;
+
+int main()
+{
+    #ifndef ONLINE_JUDGE
+        freopen("/home/fcbruce/文档/code/t","r",stdin);
+    #endif // ONLINE_JUDGE
+
+
+    while (~scanf("%d",&n))
+    {
+        a[0]=0;
+        sum[0]=0;
+        for (itn i=1;i<=n;i++)
+        {
+            scanf("%d",a+i);
+            sum[i]=sum[i-1]+a[i];
+        }
+
+        top=-1;
+        for (itn i=1;i<=n;i++)
+        {
+            while ()
+        }
+    }
+
+
+    return 0;
+}
