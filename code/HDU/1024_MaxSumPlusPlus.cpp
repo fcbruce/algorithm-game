@@ -85,7 +85,7 @@ int main()
         dp[cur][j]=max(dp[cur][j-1],MAX)+a[j];
         MAX=max(MAX,dp[cur^1][j]);
       }
-    }
+    } 
 
     int MAX=-INF;
     for (int i=m;i<=n;i++)
