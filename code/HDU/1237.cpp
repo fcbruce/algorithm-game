@@ -1,16 +1,16 @@
-#include<cstdio>
-#include<iostream>
-#include<cstdlib>
-#include<algorithm>
-#include<ctime>
-#include<cctype>
-#include<cmath>
-#include<string>
-#include<cstring>
-#include<stack>
-#include<queue>
-#include<vector>
-#include<map>
+#include <cstdio>
+#include <iostream>
+#include <cstdlib>
+#include <algorithm>
+#include <ctime>
+#include <cctype>
+#include <cmath>
+#include <string>
+#include <cstring>
+#include <stack>
+#include <queue>
+#include <vector>
+#include <map>
 #define sqr(x) (x)*(x)
 #define LL long long
 #define INF 0x3f3f3f3f
