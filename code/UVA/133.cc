@@ -26,64 +26,64 @@ int n,k,m;
 
 int main()
 {
-    #ifndef ONLINE_JUDGE
-        freopen("/home/fcbruce/文档/code/t","r",stdin);
-    #endif // ONLINE_JUDGE
+#ifndef ONLINE_JUDGE
+  freopen("/home/fcbruce/code/t","r",stdin);
+#endif // ONLINE_JUDGE
 
-    while (scanf("%d%d%d",&n,&k,&m),n||k||m)
+  while (scanf("%d%d%d",&n,&k,&m),n||k||m)
+  {
+    int rest=n;
+    bool f=false;
+    memset(a,-1,sizeof(a));
+    for (int i=1;i<=n;i++)
     {
-        int rest=n;
-        bool f=false;
-        memset(a,-1,sizeof(a));
-        for (int i=1;i<=n;i++)
-        {
-            a[i]=1;
-        }
-        int l=0,r=n+1;
-        while (rest)
-        {
-            for  (int i=1;i<=k;i++)
-            {
-                while (a[l]==-1)
-                {
-                    l++;
-                    if (l==n+1)   l=0;
-                }
-                if (i==k)   break;
-                l++;
-                if (l==n+1)   l=0;
-            }
-            for  (int i=1;i<=m;i++)
-            {
-                while (a[r]==-1)
-                {
-                    r--;
-                    if (r==0)   r=n+1;
-                }
-                if (i==m)   break;
-                r--;
-                if (r==0)   r=n+1;
-            }
-
-            if (f)  printf(",");
-            f=true;
-
-            if (r==l)
-            {
-                a[r]=-1;
-                printf("%3d",r);
-                rest--;
-            }
-            else
-            {
-                a[l]=a[r]=-1;
-                printf("%3d%3d",l,r);
-                rest-=2;
-            }
-        }
-        printf("\n");
-
+      a[i]=1;
     }
+    int l=0,r=n+1;
+    while (rest)
+    {
+      for (int i=1;i<=k;i++)
+      {
+        while (a[l]==-1)
+        {
+          l++;
+          if (l==n+1)   l=0;
+        }
+        if (i==k)   break;
+        l++;
+        if (l==n+1)   l=0;
+      }
+      for (int i=1;i<=m;i++)
+      {
+        while (a[r]==-1)
+        {
+          r--;
+          if (r==0)   r=n+1;
+        }
+        if (i==m)   break;
+        r--;
+        if (r==0)   r=n+1;
+      }
 
-    return 0;
+      if (f)  printf(",");
+      f=true;
+
+      if (r==l)
+      {
+        a[r]=-1;
+        printf("%3d",r);
+        rest--;
+      }
+      else
+      {
+        a[l]=a[r]=-1;
+        printf("%3d%3d",l,r);
+        rest-=2;
+      }
+    }
+    printf("\n");
+
+  }
+
+  return 0;
 }
