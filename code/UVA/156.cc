@@ -32,40 +32,36 @@ string temp;
 
 int main()
 {
-	#ifndef ONLINE_JUDGE
-		freopen("t","r",stdin);
-	#endif
+  #ifndef ONLINE_JUDGE
+    freopen("t","r",stdin);
+  #endif
 
-	while (scanf("%s",s))
+  while (scanf("%s",s))
+  {
+    temp=s;
+    if (temp=="#")  break;
+
+    vs.push_back(temp);
+    vb.push_back(false);
+    for (int i=0;i<temp.size();i++)
     {
-        temp=s;
-        if (temp=="#")  break;
-
-        vs.push_back(temp);
-        vb.push_back(false);
-        for (int i=0;i<temp.size();i++)
-        {
-            s[i]=tolower(s[i]);
-        }
-        sort(s,s+temp.size());
-        temp=s;
-        MAP[s].push_back(vs.size()-1);
+      s[i]=tolower(s[i]);
     }
-    //puts("fuck!");
+    sort(s,s+temp.size());
+    temp=s;
+    MAP[s].push_back(vs.size()-1);
+  }
 
-    for (it1=MAP.begin();it1!=MAP.end();it1++)
-    {
-       // puts("fuck!");
-        if ((it1->second).size()==1){
-        //        cout<<vs[it1->second[0]]<<endl;
-            OUT[vs[it1->second[0]]]++;
-        }
-    }
+  for (it1=MAP.begin();it1!=MAP.end();it1++)
+  {
+    if ((it1->second).size()==1)
+      OUT[vs[it1->second[0]]]++;
+  }
 
-    for (it2=OUT.begin();it2!=OUT.end();it2++)
-    {
-        cout<<it2->first<<endl;
-    }
+  for (it2=OUT.begin();it2!=OUT.end();it2++)
+  {
+    cout<<it2->first<<endl;
+  }
 
-	return 0;
+  return 0;
 }
