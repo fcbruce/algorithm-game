@@ -24,37 +24,36 @@ char word[100005][205];
 
 int cmp(const void *x,const void *y)
 {
-    return strcmp((char *)x,(char *)y);
+  return strcmp((char *)x,(char *)y);
 }
 
 int main()
 {
-	#ifndef ONLINE_JUDGE
-		freopen("t","r",stdin);
-	#endif
+  #ifndef ONLINE_JUDGE
+    freopen("t","r",stdin);
+  #endif
 
-	int c,cnt=0,k=0;
+  int c,cnt=0,k=0;
 
-	while ((c=getchar())!=EOF)
+  while ((c=getchar())!=EOF)
+  {
+    if (isalpha(c))
+      word[cnt][k++]=tolower(c);
+    else if (word[cnt][0]!='\0')
     {
-        if (isalpha(c))
-            word[cnt][k++]=tolower(c);
-        else
-            if (word[cnt][0]!='\0')
-            {
-                word[cnt][k]='\0';
-                cnt++;k=0;
-            }
+      word[cnt][k]='\0';
+      cnt++;k=0;
     }
+  }
 
-    qsort(word,cnt,sizeof(word[0]),cmp);
+  qsort(word,cnt,sizeof(word[0]),cmp);
 
-    for (int i=0;i<cnt;i++)
-    {
-        if (strcmp(word[i],word[i+1]))
-            puts(word[i]);
-    }
+  for (int i=0;i<cnt;i++)
+  {
+    if (strcmp(word[i],word[i+1]))
+      puts(word[i]);
+  }
 
 
-	return 0;
+  return 0;
 }
