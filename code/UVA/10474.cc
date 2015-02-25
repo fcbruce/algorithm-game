@@ -26,31 +26,30 @@ int n,q,x,*y,tt=1;
 
 int main()
 {
-	#ifndef ONLINE_JUDGE
-		freopen("t","r",stdin);
-	#endif
+  #ifndef ONLINE_JUDGE
+    freopen("t","r",stdin);
+  #endif
 
-	while (scanf("%d%d",&n,&q),n||q)
+  while (scanf("%d%d",&n,&q),n||q)
+  {
+    printf("CASE# %d:\n",tt++);
+    for (int i=0;i<n;i++)
     {
-        printf("CASE# %d:\n",tt++);
-        for (int i=0;i<n;i++)
-        {
-            scanf("%d",a+i);
-        }
-
-        sort(a,a+n);
-
-        for (int i=0;i<q;i++)
-        {
-            scanf("%d",&x);
-            y=lower_bound(a,a+n,x);
-            if ((*y)==x)
-                printf("%d found at %ld\n",x,y-a+1);
-            else
-                printf("%d not found\n",x);
-        }
+      scanf("%d",a+i);
     }
 
+    sort(a,a+n);
 
-	return 0;
+    for (int i=0;i<q;i++)
+    {
+      scanf("%d",&x);
+      y=lower_bound(a,a+n,x);
+      if ((*y)==x)
+        printf("%d found at %ld\n",x,y-a+1);
+      else
+        printf("%d not found\n",x);
+    }
+  }
+  
+  return 0;
 }
