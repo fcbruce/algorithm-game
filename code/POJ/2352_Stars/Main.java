@@ -22,7 +22,7 @@ public class Main {
 
 class Solve {
 
-  class Star implements Comparable<Star>{
+  class Star implements Comparable<Star> {
     int x,y;
 
     Star(int a,int b) {
