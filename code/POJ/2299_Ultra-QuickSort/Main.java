@@ -35,7 +35,7 @@ class Solve {
     int k=0,i=l,j=mid;
 
     while (i<mid && j<r) {
-      if (a[i]<a[j]) b[k++]=a[i++] ;
+      if (a[i]<=a[j]) b[k++]=a[i++] ;
       else {
         res+=mid-i;
         b[k++]=a[j++];
