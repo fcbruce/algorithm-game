@@ -1,8 +1,8 @@
 /*
  *
- *  Author  :  fcbruce
+ * Author : fcbruce <fcbruce8964@gmail.com>
  *
- *  Date  :  2014-09-23 13:05:02 
+ * Time : Fri 08 May 2015 11:28:52 AM CST
  *
  */
 #include <cstdio>
@@ -34,75 +34,64 @@
   #define lld "%lld"
 #endif
 
-#define maxm 23333
-#define maxn 233
+#define maxm 10007
+#define maxn 107
 
 using namespace std;
 
-int fir[maxn],deg[maxn];
+int fir[maxn];
 int u[maxm],v[maxm],nex[maxm];
 int e_max;
 
-int n;
+int d[maxn],q[maxn];
 
-void
-add_edge(int _u,int _v)
+inline void add_edge(int s,int t)
 {
   int e=e_max++;
-  u[e]=_u;v[e]=_v;
+  u[e]=s;v[e]=t;
   nex[e]=fir[u[e]];fir[u[e]]=e;
 }
 
-int st[maxn];
-
-void
-topo_sort()
+void toposort(int n)
 {
-  int top=-1;
-  for (int i=1;i<=n;i++)
-    if (deg[i]==0) st[++top]=i;
-  
+  int f=0,r=-1;
+
+  memset(d,0,sizeof d);
+  for (int e=0;e<e_max;e++) d[v[e]]++;
+
+  for (int i=1;i<=n;i++) if (d[i]==0) q[++r]=i;
+
   for (int i=0;i<n;i++)
   {
-    int x=st[top--];
+    int x=q[f++];
     
-    if (i) putchar(' ');
+    if (i!=0) putchar(' ');
     printf("%d",x);
-    
+
     for (int e=fir[x];~e;e=nex[e])
-      if (--deg[v[e]]==0) st[++top]=v[e];
+    {
+      d[v[e]]--;
+      if (d[v[e]]==0) q[++r]=v[e];
+    }
   }
-  
-  putchar('\n');
 }
 
-
-int
-main()
+int main()
 {
 #ifdef FCBRUCE
   freopen("/home/fcbruce/code/t","r",stdin);
 #endif // FCBRUCE
-  
+
+  int n;
   scanf("%d",&n);
-  
+
   e_max=0;
   memset(fir,-1,sizeof fir);
-  memset(deg,0,sizeof deg);
-  
-  for (int i=1,x;i<=n;i++)
-  {
-    while (scanf("%d",&x),x)
-    {
-      add_edge(i,x);
-      deg[x]++;
-    }
-  }
-  
-  topo_sort();
-  
+
+  for (int i=0,v;i<n;i++)
+    while (scanf("%d",&v),v!=0) add_edge(i+1,v);
+
+  toposort(n);
+
   return 0;
 }
-
-
-
