@@ -76,7 +76,7 @@ public class Main {
   
   private String nextString() {
     int b = skip();
-    while (isSpaceChar(b)) b = skip();
+    if (b==-1) throw new InputMismatchException();
     StringBuilder sb = new StringBuilder();
     while (!(isSpaceChar(b))) { // when nextLine, (isSpaceChar(b) && b != ' ')
       sb.appendCodePoint(b);
