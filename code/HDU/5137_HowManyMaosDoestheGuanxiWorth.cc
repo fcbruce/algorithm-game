@@ -56,7 +56,7 @@ int dijkstra(int s,int ban,int n)
     for (int i=1;i<=n;i++) if (!vis[i] && (v==-1 || d[v]>d[i])) v=i;
 
     if (v==-1) break;
-    vis[v]=-1;
+    vis[v]=true;
 
     for (int i=1;i<=n;i++) d[i]=min(d[i],d[v]+G[v][i]);
   }
