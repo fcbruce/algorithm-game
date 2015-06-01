@@ -2,7 +2,7 @@
  *
  * Author : fcbruce <fcbruce8964@gmail.com>
  *
- * Time : Thu 06 Nov 2014 05:28:00 PM CST
+ * Time : Mon 01 Jun 2015 11:55:42 PM CST
  *
  */
 #include <cstdio>
@@ -39,7 +39,7 @@
 
 using namespace std;
 
-int pos[maxn],a[maxn];
+int a[maxn],h[maxn];
 
 int main()
 {
@@ -47,7 +47,29 @@ int main()
   freopen("/home/fcbruce/code/t","r",stdin);
 #endif // FCBRUCE
 
+  int __=0;
+  int n;
 
+  while (scanf("%d",&n)==1)
+  {
+    for (int i=0,u,v;i<n;i++) 
+    {
+      scanf("%d%d",&u,&v);
+      a[--u]=v;
+    }
+
+    memset(h,0x3f,sizeof h);
+    int j=0;
+    for (int i=0;i<n;i++)
+    {
+      int *p=lower_bound(h,h+j,a[i]);
+      *p=a[i];
+      if (h[j]!=INF) j++;
+    }
+
+    printf("Case %d:\n",++__);
+    printf("My king, at most %d road%s can be built.\n\n",j,j>1?"s":"");
+  }
 
 
   return 0;
