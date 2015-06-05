@@ -57,17 +57,7 @@ inline void add_edge(int s,int t)
 
 int root(int x)
 {
-  int t=x;
-
-  while (t!=pre[t]) t=pre[t];
-
-  while (x!=pre[x])
-  {
-    x=pre[x];
-    pre[x]=t;
-  }
-
-  return t;
+  return x==pre[x]?x:pre[x]=root(pre[x]);
 }
 
 inline bool same(int u,int v)
@@ -77,7 +67,7 @@ inline bool same(int u,int v)
 
 inline void merge(int u,int v)
 {
-  pre[root(u)]=root(v);
+  pre[root(v)]=root(u);
 }
 
 bool cycle()
