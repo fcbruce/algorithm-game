@@ -56,6 +56,7 @@ void get_prefix()
 int KMP()
 {
   get_prefix();
+  
   for (int i=0,j=-1;s2[i]!='\0';i++)
   {
     while (j>-1 && s1[j+1]!=s2[i]) j=nex[j];
