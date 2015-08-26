@@ -12,7 +12,7 @@ ACM-ICPC
 
 
 
-#####1036_树的统计Count
+####1036 树的统计Count
 
 树链剖分,点权,基础题
 
@@ -26,169 +26,169 @@ ACM-ICPC
 
 
 
-#####525A_VitaliyandPie
+####525A VitaliyandPie
 
 模拟，统计
 
 
 
-#####525B_PashaandString
+####525B PashaandString
 
 乱搞
 
 
 
-#####525C_IIyaandSticks
+####525C IIyaandSticks
 
 greed,two-pointer
 
 
 
-#####134C_Swaps
+####134C Swaps
 
 YY,优先队列贪心,大的先换
 
 
 
-#####14A_Letter
+####14A Letter
 
 模拟乱搞
 
 
 
-#####15C_IndustrialNim
+####15C IndustrialNim
 
 Nim博弈,[0,x]异或
 
 
 
-#####182E_WoodenFence
+####182E WoodenFence
 
 dp,计数
 
 
 
-#####19D_Points
+####19D Points
 
 线段树,分治
 
 
 
-#####204A_LittleElephantandInterval
+####204A LittleElephantandInterval
 
 乱搞，分类讨论，计数
 
 
 
-#####230C_Shifts
+####230C Shifts
 
 枚举,二分,乱搞
 
 
 
-#####239B_EasyTapeProgramming
+####239B EasyTapeProgramming
 
 模拟,水
 
 
 
-#####245E_MishapinClub
+####245E MishapinClub
 
 乱搞,max-min
 
 
 
-#####25D_RoadsnotonlyinBerland
+####25D RoadsnotonlyinBerland
 
 tree,构造,水
 
 
 
-#####327C_MagicFive
+####327C MagicFive
 
 计数,等比数列求和
 
 
 
-#####327D_BlockTower
+####327D BlockTower
 
 bfs逆序，贪心，联通块
 
 
 
-#####330C_Purification
+####330C Purification
 
 YY乱搞,按行/列铺
 
 
 
-#####332C_StudentsRevenge
+####332C StudentsRevenge
 
 贪心,sort
 
 
 
-#####359D_PairofNumbers
+####359D PairofNumbers
 
 gcd,线段树,二分
 
 
 
-#####35D_Animals
+####35D Animals
 
 greed,sort
 
 
 
-#####384C_Milkingcows
+####384C Milkingcows
 
 贪心,首先考察任意两头牛的情况
 
 
 
-#####4C_Registrationsystem
+####4C Registrationsystem
 
 map
 
 
 
-#####520A_Pangram
+####520A Pangram
 
 水,乱搞
 
 
 
-#####520B_TwoButtons
+####520B TwoButtons
 
 bfs,水
 
 
 
-#####526A_KingofThieves
+####526A KingofThieves
 
 枚举
 
 
 
-#####526B_OmNomandDarkPark
+####526B OmNomandDarkPark
 
 二叉树,分治乱搞
 
 
 
-#####526C_OmNomandCandies
+####526C OmNomandCandies
 
 贪心枚举乱搞,两边扫
 
 
 
-#####85C_PetyaandTree
+####85C PetyaandTree
 
 树形dp,分治
 
 
 
-#####8C_LookingforOrder
+####8C LookingforOrder
 
 状压dp,记忆化,顺序无关
 
@@ -202,709 +202,709 @@ bfs,水
 
 
 
-#####1181_变形课
+####1181 变形课
 
 floyd,水
 
 
 
-#####1233_还是畅通工程
+####1233 还是畅通工程
 
 MST
 
 
 
-#####1254_推箱子
+####1254 推箱子
 
 bfs+dfs
 
 
 
-#####1272_小希的迷宫
+####1272 小希的迷宫
 
 judge a tree 并查集
 
 
 
-#####3123_GCC
+####3123 GCC
 
 大数,找规律,小心模
 
 
 
-#####3336_Countthestring
+####3336 Countthestring
 
 KMP,计数,dp
 
 
 
-#####4509_湫湫系列故事减肥记II
+####4509 湫湫系列故事减肥记II
 
 乱搞,水
 
 
 
-#####4911_Inversion
+####4911 Inversion
 
 逆序数
 
 
 
-#####5166_Missingnumber
+####5166 Missingnumber
 
 sort,枚举
 
 
 
-#####5167_Fibonacci
+####5167 Fibonacci
 
 红黑树,枚举,筛
 
 
 
-#####5178_pairs
+####5178 pairs
 
 sort,单调
 
 
 
-#####5179_beautifulnumber
+####5179 beautifulnumber
 
 dfs枚举
 
 
 
-#####1024_MaxSumPlusPlus
+####1024 MaxSumPlusPlus
 
 dp
 
 
 
-#####1025_ConstructingRoadsInJGShiningsKingdom
+####1025 ConstructingRoadsInJGShiningsKingdom
 
 LIS
 
 
 
-#####1030_Delta-wave
+####1030 Delta-wave
 
 14-15年周赛5(2014-12-28),乱搞
 
 
 
-#####1058_HumbleNumbers
+####1058 HumbleNumbers
 
 init
 
 
 
-#####1069_MonkeyandBanana
+####1069 MonkeyandBanana
 
 init
 
 
 
-#####1078_FatMouseandCheese
+####1078 FatMouseandCheese
 
 dp,记忆化搜索
 
 
 
-#####1081_ToTheMax
+####1081 ToTheMax
 
 dp,降维,最大连续子段和,水
 
 
 
-#####1128_SelfNumbers
+####1128 SelfNumbers
 
 打表
 
 
 
-#####1158_EmploymentPlanning
+####1158 EmploymentPlanning
 
 dp[i][j]表示第i天剩j人的最小花费
 
 
 
-#####1196_LowestBit
+####1196 LowestBit
 
 14-15年周赛5(2014-12-28)
 
 
 
-#####1222_WolfandRabbit
+####1222 WolfandRabbit
 
 14-15年周赛5(2014-12-28)
 
 
 
-#####1237
+####1237
 
 表达式求值，栈
 
 
 
-#####1257_最少拦截系统
+####1257 最少拦截系统
 
 14-15年周赛5(2014-12-28)
 
 
 
-#####1269_迷宫城堡
+####1269 迷宫城堡
 
 14-15年周赛5(2014-12-28)
 
 
 
-#####1284_钱币兑换问题
+####1284 钱币兑换问题
 
 14-15年周赛5(2014-12-28)
 
 
 
-#####1573_X问题
+####1573 X问题
 
 中国剩余定理,不互质
 
 
 
-#####1702_ACboyneedsyourhelpagain
+####1702 ACboyneedsyourhelpagain
 
 模拟乱搞,queue,stack
 
 
 
-#####1711_NumberSequence
+####1711 NumberSequence
 
 KMP
 
 
 
-#####1789_DoingHomeworkagain
+####1789 DoingHomeworkagain
 
 init
 
 
 
-#####1829_ABugsLife
+####1829 ABugsLife
 
 种类并查集
 
 
 
-#####1978_Howmantways
+####1978 Howmantways
 
 init
 
 
 
-#####2066_一个人的旅行
+####2066 一个人的旅行
 
 dijkstra,水
 
 
 
-#####2087_剪花布条
+####2087 剪花布条
 
 KMP
 
 
 
-#####2089_不要62
+####2089 不要62
 
 数位dp
 
 
 
-#####2196_Computer
+####2196 Computer
 
 树的直径
 
 
 
-#####2222_KeywordsSearch
+####2222 KeywordsSearch
 
 AC自动机
 
 
 
-#####2448_MiningStationontheSea
+####2448 MiningStationontheSea
 
 14-15年周赛5(2014-12-28),费用流
 
 
 
-#####2452_Navymaneuvers
+####2452 Navymaneuvers
 
 DAG动态规划
 
 
 
-#####2577_HowtoType
+####2577 HowtoType
 
 init
 
 
 
-#####2594_SimpsonsHiddenTalents
+####2594 SimpsonsHiddenTalents
 
 KMP
 
 
 
-#####2609_Howmany
+####2609 Howmany
 
 字符串,最小表示法,状压
 
 
 
-#####2830_MatrixSwappingII
+####2830 MatrixSwappingII
 
 init
 
 
 
-#####2845_Beans
+####2845 Beans
 
 init
 
 
 
-#####2870_LargestSubmatrix
+####2870 LargestSubmatrix
 
 init
 
 
 
-#####2896_病毒侵袭
+####2896 病毒侵袭
 
 AC自动机
 
 
 
-#####3065_病毒侵袭持续中
+####3065 病毒侵袭持续中
 
 AC自动机
 
 
 
-#####3125_Slash
+####3125 Slash
 
 模拟,水
 
 
 
-#####3181
+####3181
 
 init
 
 
 
-#####3333_TuringTree
+####3333 TuringTree
 
 init
 
 
 
-#####3374_StringProblem
+####3374 StringProblem
 
 KMP,最小表示法
 
 
 
-#####3411_SnailAlice
+####3411 SnailAlice
 
 数列递推公式,矩阵快速幂
 
 
 
-#####3555_Bomb
+####3555 Bomb
 
 数位dp
 
 
 
-#####3579_HelloKiKi
+####3579 HelloKiKi
 
 中国剩余定理,模数不互质,合并方程组两两求解
 
 
 
-#####3652_Bnumber
+####3652 Bnumber
 
 数位dp
 
 
 
-#####3696_FarmGame
+####3696 FarmGame
 
 DAG,dp/topo
 
 
 
-#####3709_BalancedNumber
+####3709 BalancedNumber
 
 数位dp
 
 
 
-#####3714_ErrorCurves
+####3714 ErrorCurves
 
 三分
 
 
 
-#####3746_CyclicNacklace
+####3746 CyclicNacklace
 
 KMP
 
 
 
-#####3854_GloriousArray
+####3854 GloriousArray
 
 脑洞,小于k的为单元集,每个元素都不能和同一集合的元素成pair,维护即可
 
 
-#####3872_Dargon Ball
+####3872 Dargon Ball
 
 DP+单调栈+线段树。dp[i]表示前i个球分好组的最小花费，显然此时i是右端点，若前一个和i同类型的位置为le[i],le[i] <= j < i,
-dp[i]=min{dp[j]+max{ek|j < k <=i}},但这样的复杂度是O(n^2)，不妨考虑ek，若ek..ei中ek是最大的，那么显然ek就是后面这段的花费，
+dp[i]=min{dp[j] + max{ek | j < k <= i}},但这样的复杂度是O(n^2)，不妨考虑ek，若ek..ei中ek是最大的，那么显然ek就是后面这段的花费，
 若ek前面第一个比他大的位置为j,则有dp[i]=min{min{dp|\[ j , k \) } + ek },所以用单调栈维护降序的e，在栈中去枚举，虽然负责度还是O(n^2),但基本达不到上界。
 
 
-#####3874_Necklace
+####3874 Necklace
 
 init
 
 
 
-#####3972-2
+####3972-2
 
 init
 
 
 
-#####3972
+####3972
 
 init
 
 
 
-#####3976_Electricresistance
+####3976 Electricresistance
 
 基尔霍夫第一定律,高斯消元
 
 
 
-#####3994_MissionImpossible
+####3994 MissionImpossible
 
 floyd概率dp
 
 
 
-#####4006_Thekthgreatnumber
+####4006 Thekthgreatnumber
 
 红黑树,stl
 
 
 
-#####4009_Transferwater
+####4009 Transferwater
 
 init
 
 
 
-#####4027_Canyouanswerthesequeries
+####4027 Canyouanswerthesequeries
 
 init
 
 
 
-#####4057_RescuetheRabbit
+####4057 RescuetheRabbit
 
 init
 
 
 
-#####4081_QinShiHuangsNationalRoadSystem
+####4081 QinShiHuangsNationalRoadSystem
 
 次小生成树
 
 
 
-#####4193_Non-negativePartialSums
+####4193 Non-negativePartialSums
 
 单调队列
 
 
 
-#####4268_AliceandBob
+####4268 AliceandBob
 
 init
 
 
 
-#####4324_TriangleLOVE
+####4324 TriangleLOVE
 
 init
 
 
 
-#####4404_Worms
+####4404 Worms
 
 init
 
 
 
-#####4411_Arrest
+####4411 Arrest
 
 init
 
 
 
-#####4415_AssassinsCreed
+####4415 AssassinsCreed
 
 init
 
 
 
-#####4419_ColourfulRectangle
+####4419 ColourfulRectangle
 
 init
 
 
 
-#####4445_CrazyTank
+####4445 CrazyTank
 
 init
 
 
 
-#####4734_Fx
+####4734 Fx
 
 数位dp
 
 
 
-#####4749_ParadeShow
+####4749 ParadeShow
 
 KMP,前缀和维护前面有多少等级相同和等级小的,HDU数据SB,明显WA的code也能AC
 
 
 
-#####4786_FibonacciTree
+####4786 FibonacciTree
 
 生成树,乱搞
 
 
 
-#####4841
+####4841
 
 init
 
 
 
-#####4915_Parenthese
+####4915 Parenthese
 
 sequence init
 
 
 
-#####4918_Queryonthesubtree
+####4918 Queryonthesubtree
 
 点分治,树状数组维护点到分治中心的距离,注意去重
 
 
 
-#####4948_Kingdom
+####4948 Kingdom
 
 init
 
 
 
-#####4960_AnotherOCDPatient
+####4960 AnotherOCDPatient
 
 init
 
 
 
-#####4966_GGSDDU
+####4966 GGSDDU
 
 init
 
 
 
-#####4969_JustaJoke
+####4969 JustaJoke
 
 init
 
 
 
-#####4970_KillingMonsters
+####4970 KillingMonsters
 
 init
 
 
 
-#####4971_Asimplebruteforceproblem
+####4971 Asimplebruteforceproblem
 
 init
 
 
 
-#####4973_Asimplesimulationproblem
+####4973 Asimplesimulationproblem
 
 init
 
 
 
-#####4975_AsimpleGaussianeliminationproblem
+####4975 AsimpleGaussianeliminationproblem
 
 init
 
 
 
-#####5023_ACorruptMayorsPerformanceArt
+####5023 ACorruptMayorsPerformanceArt
 
 init
 
 
 
-#####5031_Lines
+####5031 Lines
 
 init
 
 
 
-#####5033_Building
+####5033 Building
 
 init
 
 
 
-#####5071_Chat
+####5071 Chat
 
 init
 
 
 
-#####5086_RevengeofSegmentTree
+####5086 RevengeofSegmentTree
 
 init
 
 
 
-#####5091_BeamCannon
+####5091 BeamCannon
 
 init
 
 
 
-#####5098_SmartSoftwareInstaller
+####5098 SmartSoftwareInstaller
 
 DAG动态规划,最长路,SPFA/topo
 
 
 
-#####5124_line
+####5124 line
 
 init
 
 
 
-#####5130_SignalInterference
+####5130 SignalInterference
 
 init
 
 
 
-#####5137_HowManyMaosDoestheGuanxiWorth
+####5137 HowManyMaosDoestheGuanxiWorth
 
 最短路,水
 
 
 
-#####5150_SumSumSum
+####5150 SumSumSum
 
 HDU 5150
 
 
 
-#####5183_NegativeandPositiveNP
+####5183 NegativeandPositiveNP
 
 set,前缀和
 
 
 
-#####5191_BuildingBlocks
+####5191 BuildingBlocks
 
 前后补0，区间乱搞，前缀和
 
 
 
-#####5192_BuildingBlocksII
+####5192 BuildingBlocksII
 
 Segment-Tree，前后加0，aver,aver+1,加挂加优化
 
 
 
-#####5198_StrangeClass
+####5198 StrangeClass
 
 模拟乱搞，注意细节
 
 
 
-#####5199_Gunner
+####5199 Gunner
 
 离线乱搞
 
 
 
-#####5200_Trees
+####5200 Trees
 
 离线并查集，逆向思维
 
 
 
-#####5222_Exploration
+####5222 Exploration
 
 混合图找环,并查集无向边缩点,有向边用topo找环
 
 
 
-#####5288_OOsSequence
+####5288 OOsSequence
 
 筛法,找规律,计数
 
 
 
-#####5289_Assignment
+####5289 Assignment
 
 二分,ST表O(1)查询区间最值
 
 
 
-#####5294_TricksDevice
+####5294 TricksDevice
 
 最短路+最小割
 
 
 
-#####1520_Anniversaryparty
+####1520 Anniversaryparty
 
 init
 
 
 
-#####3255_Farming
+####3255 Farming
 
 init
 
 
 
-#####WirelessPassword
+####WirelessPassword
 
 init
 
@@ -920,61 +920,61 @@ Live)
 
 
 
-#####2191_Potentiometers
+####2191 Potentiometers
 
 init
 
 
 
-#####3661_AnimalRun
+####3661 AnimalRun
 
 init
 
 
 
-#####6281_ExactMeasurement
+####6281 ExactMeasurement
 
 init
 
 
 
-#####6459_InfiniteGo
+####6459 InfiniteGo
 
 init
 
 
 
-#####6485_2
+####6485 2
 
 init
 
 
 
-#####6485_ElectricCarRally
+####6485 ElectricCarRally
 
 init
 
 
 
-#####6487_StarSimulations
+####6487 StarSimulations
 
 init
 
 
 
-#####6622_AbsurdistanRoads
+####6622 AbsurdistanRoads
 
 init
 
 
 
-#####6623_BattleforSilver
+####6623 BattleforSilver
 
 init
 
 
 
-#####6663_CounttheRegions
+####6663 CounttheRegions
 
 init
 
@@ -987,464 +987,473 @@ init
 ##POJ
 
 
+####3101 Astronomy
 
-#####2299_Ultra-QuickSort
+Java 大数。考虑两个星球，假设其周期为t1,t2,到一直线的周期为 T = abs( 1 / ( 1 / t1 - 1 / t2) ) / 2;
+那么n个星球有 n - 1 个这样的周期T，求其最小公倍数即可。两个分数的最小公倍数怎么求呢？假设其最简形式分别为 a/b, c/d,
+首先考虑 lcm(a, c) 除以这两个分数一定能得到整数：lcm(a, c) * b / a = c * b / gcd(a, c), lcm(a, c) * d / c = a * d / gcd(a, c);
+那我们要这两个数最小，显然 b 和 d 还能除以gcd(b, d),从而 lcm(a/b, c/d) = lcm(a, c) / gcd(b, d).
+
+
+
+
+####2299 Ultra-QuickSort
 
 merge,逆序数,bug fixed
 
 
 
-#####2352_Stars
+####2352 Stars
 
 离线BIT
 
 
 
-#####2456_Aggressivecows
+####2456 Aggressivecows
 
 二分
 
 
 
-#####3450_CorporateIdentity
+####3450 CorporateIdentity
 
 二分长度,字符串乱搞
 
 
 
-#####1001_Exponentiation
+####1001 Exponentiation
 
 init
 
 
 
-#####1006_Biorhythms
+####1006 Biorhythms
 
 中国剩余定理
 
 
 
-#####1028_WebNavigation
+####1028 WebNavigation
 
 模拟,水
 
 
 
-#####1094_SortingItAllOut
+####1094 SortingItAllOut
 
 toposort
 
 
 
-#####1095_TreesMadetoOrder
+####1095 TreesMadetoOrder
 
 卡特兰数,分治
 
 
 
-#####1099_SquareIce
+####1099 SquareIce
 
 模拟,图形打印,较复杂
 
 
 
-#####1105_S-Trees
+####1105 S-Trees
 
 二叉树
 
 
 
-#####1128_FrameStacking
+####1128 FrameStacking
 
 init
 
 
 
-#####1135_DominoEffect
+####1135 DominoEffect
 
 init
 
 
 
-#####1155_TELE
+####1155 TELE
 
 树形dp,分组背包
 
 
 
-#####1166_TheClocks
+####1166 TheClocks
 
 高斯消元,模线性方程,扩展欧几里得
 
 
 
-#####1182
+####1182
 
 init
 
 
 
-#####1192_最优连通子集
+####1192 最优连通子集
 
 init
 
 
 
-#####1222_EXTENDEDLIGHTSOUT
+####1222 EXTENDEDLIGHTSOUT
 
 开关问题,高斯消元
 
 
 
-#####1236_NetworkofSchools
+####1236 NetworkofSchools
 
 init
 
 
 
-#####1258_Agri-Net
+####1258 Agri-Net
 
 init
 
 
 
-#####1465_Multiple
+####1465 Multiple
 
 init
 
 
 
-#####1487_SinglePlayerGames
+####1487 SinglePlayerGames
 
 正规文法,树,递归,高斯消元,简单期望
 
 
 
-#####1625_Censored
+####1625 Censored
 
 init
 
 
 
-#####1655_BalancingAct
+####1655 BalancingAct
 
 树分治
 
 
 
-#####1741_Tree
+####1741 Tree
 
 男人八题之经典树(点)分治
 
 
 
-#####1741_Tree_again
+####1741 Tree again
 
 点分治
 
 
 
-#####1847_Tram
+####1847 Tram
 
 最短路
 
 
 
-#####1947_RebuildingRoads
+####1947 RebuildingRoads
 
 树形dp,dp[i][j]表示以i为根的子树剩j个点(一定含i)要切多少条边
 
 
 
-#####2031_BuildingaSpaceStation
+####2031 BuildingaSpaceStation
 
 init
 
 
 
-#####2065_SETI
+####2065 SETI
 
 高斯消元,模线性方程,扩展欧几里得
 
 
 
-#####2152_Fire
+####2152 Fire
 
 树形dp,2006年陈启峰国家集训队论文
 
 
 
-#####2185_MilkingGrid
+####2185 MilkingGrid
 
 init
 
 
 
-#####2186_PopularCows
+####2186 PopularCows
 
 init
 
 
 
-#####2236_WirelessNetwork
+####2236 WirelessNetwork
 
 并查集
 
 
 
-#####2259_TeamQueue
+####2259 TeamQueue
 
 队列嵌套,模拟乱搞
 
 
 
-#####2342_Anniversaryparty
+####2342 Anniversaryparty
 
 树形dp
 
 
 
-#####2367_Genealogicaltree
+####2367 Genealogicaltree
 
 toposort
 
 
 
-#####2406_PowerStrings
+####2406 PowerStrings
 
 KMP
 
 
 
-#####2421_ConstructingRoads
+####2421 ConstructingRoads
 
 init
 
 
 
-#####2482_StarsinYourWindow
+####2482 StarsinYourWindow
 
 init
 
 
 
-#####2486_AppleTree
+####2486 AppleTree
 
 树形dp,分组背包,dp[i][j][0]i子树走j步不回到i,dp[i][j][1]要回到i
 
 
 
-#####2559_LargestRectangleinaHistogram
+####2559 LargestRectangleinaHistogram
 
 dp,左右跳,乱搞
 
 
 
-#####2585_WindowPains
+####2585 WindowPains
 
 init
 
 
 
-#####2676
+####2676
 
 init
 
 
 
-#####2694_ASimplePokerGame
+####2694 ASimplePokerGame
 
 模拟,中档水题
 
 
 
-#####2696_AMysteriousFunction
+####2696 AMysteriousFunction
 
 记忆化,水
 
 
 
-#####2750_IdiomaticPhrasesGame
+####2750 IdiomaticPhrasesGame
 
 init
 
 
 
-#####2752_SeektheNameSeektheFame
+####2752 SeektheNameSeektheFame
 
 KMP
 
 
 
-#####2762_Goingfromutovorfromvtou
+####2762 Goingfromutovorfromvtou
 
 init
 
 
 
-#####2763_HousewifeWind
+####2763 HousewifeWind
 
 树链剖分,模板题
 
 
 
-#####2793_Cactus
+####2793 Cactus
 
 仙人掌度,点双联通,高精度
 
 
 
-#####2796_FeelGood
+####2796 FeelGood
 
 离线并查集
 
 
 
-#####2947_WidgetFactory
+####2947 WidgetFactory
 
 高斯消元,模线性方程,无解,多解,唯一解
 
 
 
-#####2987_Firing
+####2987 Firing
 
 init
 
 
 
-#####3026_BorgMaze
+####3026 BorgMaze
 
 init
 
 
 
-#####3080_BlueJeans
+####3080 BlueJeans
 
 字符串,枚举
 
 
 
-#####3107_Godfather
+####3107 Godfather
 
 树的重心,分治
 
 
 
-#####3159_Candies
+####3159 Candies
 
 init
 
 
 
-#####3162_WalkingRace
+####3162 WalkingRace
 
 树的直径,单调队列求最长连续区间最值差不超过k,经典题
 
 
 
-#####3167_CowPatterns
+####3167 CowPatterns
 
 KMP,前缀和维护前面有多少等级相同和等级小的,HDU数据SB,明显WA的code也能AC
 
 
 
-#####3169_Layout
+####3169 Layout
 
 init
 
 
 
-#####3180_TheCowProm
+####3180 TheCowProm
 
 init
 
 
 
-#####3237_Tree
+####3237 Tree
 
 树链剖分+线段树lazy
 
 
 
-#####3252_RoundNumbers
+####3252 RoundNumbers
 
 数位dp
 
 
 
-#####3258_RiverHopscotch
+####3258 RiverHopscotch
 
 二分
 
 
 
-#####3259_Wormholes
+####3259 Wormholes
 
 init
 
 
 
-#####3342_PartyatHaliBula
+####3342 PartyatHaliBula
 
 树形dp
 
 
 
-#####3345_BribingFIPA
+####3345 BribingFIPA
 
 树形dp,分组背包
 
 
 
-#####3461_Oulipo
+####3461 Oulipo
 
 KMP
 
 
 
-#####3532_Resistance
+####3532 Resistance
 
 基尔霍夫第一定律,高斯消元,注意判断是否联通
 
 
 
-#####3678_KatuPuzzle
+####3678 KatuPuzzle
 
 init
 
 
 
-#####3687_LabelingBalls
+####3687 LabelingBalls
 
 init
 
 
 
-#####3691_DNArepair
+####3691 DNArepair
 
 init
 
 
 
-#####3784_RunningMedian
+####3784 RunningMedian
 
 蒟蒻只会线段树+二分
 
 
 
-#####3835_Columbussbargin
+####3835 Columbussbargin
 
 最短路,坑
 
 
 
-#####3897_MazeStretching
+####3897 MazeStretching
 
 二分,A*,卡精度貌似
 
 
 
-#####1122_FDNYtotheRescue
+####1122 FDNYtotheRescue
 
 init
 
@@ -1458,7 +1467,7 @@ init
 
 
 
-#####134_Centroid
+####134 Centroid
 
 dfs,树的重心,树分治基础
 
@@ -1472,133 +1481,133 @@ dfs,树的重心,树分治基础
 
 
 
-#####1022_AngelsandDevils
+####1022 AngelsandDevils
 
 init
 
 
 
-#####1043_CanyouanswerthesequeriesI
+####1043 CanyouanswerthesequeriesI
 
 init
 
 
 
-#####11772_NegativeScore
+####11772 NegativeScore
 
 init
 
 
 
-#####11840_SumofSquareswithSegmentTree
+####11840 SumofSquareswithSegmentTree
 
 init
 
 
 
-#####14932_LowestCommonAncestor
+####14932 LowestCommonAncestor
 
 init
 
 
 
-#####1693_Coconuts
+####1693 Coconuts
 
 init
 
 
 
-#####1716_CanyouanswerthesequeriesIII
+####1716 CanyouanswerthesequeriesIII
 
 init
 
 
 
-#####1716_CanyouanswerthesequeriesIII_again
+####1716 CanyouanswerthesequeriesIII again
 
 init
 
 
 
-#####203_Potholers
+####203 Potholers
 
 init
 
 
 
-#####2_PrimeGenerator
+####2 PrimeGenerator
 
 init
 
 
 
-#####32_ANeddleintheHaystack
+####32 ANeddleintheHaystack
 
 init
 
 
 
-#####3868_TotalFlow
+####3868 TotalFlow
 
 init
 
 
 
-#####4033_PhoneList
+####4033 PhoneList
 
 init
 
 
 
-#####7212_FindStringRoots
+####7212 FindStringRoots
 
 init
 
 
 
-#####962_IntergalacticMap
+####962 IntergalacticMap
 
 init
 
 
 
-#####GONE
+####GONE
 
 数位dp
 
 
 
-#####HIGH
+####HIGH
 
 生成树计数,基尔霍夫矩阵,高斯消元,行列式
 
 
 
-#####LUCIFER
+####LUCIFER
 
 数位dp
 
 
 
-#####NUMTSN
+####NUMTSN
 
 数位dp
 
 
 
-#####PERIOD
+####PERIOD
 
 KMP
 
 
 
-#####QTREE
+####QTREE
 
 树链剖分,单点修改,RMQ,入门题
 
 
 
-#####RAONE
+####RAONE
 
 数位dp
 
@@ -1612,19 +1621,19 @@ KMP
 
 
 
-#####1108_Heritage
+####1108 Heritage
 
 数学,YY
 
 
 
-#####1385_InterestingNumber
+####1385 InterestingNumber
 
 数论，打表找规律
 
 
 
-#####1762_SearchforaHidingPlace
+####1762 SearchforaHidingPlace
 
 手动模拟找规律
 
@@ -1638,1339 +1647,1339 @@ KMP
 
 
 
-#####1025
+####1025
 
 dp[i][j]-i分钟在j站一共的等车时间
 
 
 
-#####111
+####111
 
 dp,lis/lcs
 
 
 
-#####1347
+####1347
 
 dp,记忆化搜索,dp[i][j]表示分别走到i,j时还要走的路程
 
 
 
-#####1591
+####1591
 
 枚举,考察deltaQ
 
 
 
-#####207
+####207
 
 模拟，题目上的输入数据样例格式是有问题的，多一个空格，这题不卡精度，要注意发钱的情况
 
 
 
-#####437
+####437
 
 dp,DAG最长路
 
 
 
-#####679
+####679
 
 二叉树,找规律
 
 
 
-#####815
+####815
 
 乱搞
 
 
 
-#####10004
+####10004
 
 init
 
 
 
-#####1001
+####1001
 
 易证圆外一点到圆的最短路线是沿着圆心连线,floyd乱搞
 
 
 
-#####10010
+####10010
 
 模拟乱搞
 
 
 
-#####10014
+####10014
 
 init
 
 
 
-#####10025
+####10025
 
 init
 
 
 
-#####10026
+####10026
 
 init
 
 
 
-#####10034
+####10034
 
 init
 
 
 
-#####10047
+####10047
 
 init
 
 
 
-#####10048
+####10048
 
 floyd
 
 
 
-#####10050
+####10050
 
 init
 
 
 
-#####10054
+####10054
 
 init
 
 
 
-#####10057
+####10057
 
 init
 
 
 
-#####10061
+####10061
 
 init
 
 
 
-#####10082
+####10082
 
 乱搞
 
 
 
-#####10098
+####10098
 
 UVa 10098
 
 
 
-#####10099
+####10099
 
 init
 
 
 
-#####101
+####101
 
 模拟乱搞
 
 
 
-#####10106
+####10106
 
 init
 
 
 
-#####10110
+####10110
 
 init
 
 
 
-#####10112
+####10112
 
 init
 
 
 
-#####10115
+####10115
 
 init
 
 
 
-#####10129
+####10129
 
 init
 
 
 
-#####10132
+####10132
 
 init
 
 
 
-#####10152
+####10152
 
 init
 
 
 
-#####10158
+####10158
 
 init
 
 
 
-#####10161
+####10161
 
 init
 
 
 
-#####10167
+####10167
 
 init
 
 
 
-#####10177
+####10177
 
 init
 
 
 
-#####10194
+####10194
 
 init
 
 
 
-#####10250
+####10250
 
 init
 
 
 
-#####10269
+####10269
 
 init
 
 
 
-#####10273
+####10273
 
 init
 
 
 
-#####10298_PowerStrings
+####10298 PowerStrings
 
 KMP
 
 
 
-#####10300
+####10300
 
 init
 
 
 
-#####10305
+####10305
 
 init
 
 
 
-#####10307
+####10307
 
 init
 
 
 
-#####10330
+####10330
 
 init
 
 
 
-#####10340
+####10340
 
 乱搞
 
 
 
-#####10341
+####10341
 
 init
 
 
 
-#####10361
+####10361
 
 init
 
 
 
-#####10369
+####10369
 
 init
 
 
 
-#####10387
+####10387
 
 init
 
 
 
-#####10392
+####10392
 
 init
 
 
 
-#####10397
+####10397
 
 init
 
 
 
-#####104
+####104
 
 init
 
 
 
-#####10420
+####10420
 
 init
 
 
 
-#####10449
+####10449
 
 init
 
 
 
-#####10474
+####10474
 
 二分
 
 
 
-#####10487
+####10487
 
 init
 
 
 
-#####10494
+####10494
 
 init
 
 
 
-#####10499
+####10499
 
 init
 
 
 
-#####10557
+####10557
 
 init
 
 
 
-#####10562
+####10562
 
 init
 
 
 
-#####10594
+####10594
 
 init
 
 
 
-#####10596
+####10596
 
 init
 
 
 
-#####10608
+####10608
 
 init
 
 
 
-#####10679
+####10679
 
 init
 
 
 
-#####107
+####107
 
 init
 
 
 
-#####10700
+####10700
 
 init
 
 
 
-#####10706
+####10706
 
 init
 
 
 
-#####10719
+####10719
 
 init
 
 
 
-#####10735
+####10735
 
 Network Flow 混合图的欧拉回路 无向边任意定向，出入度判断是否可行，去掉有向边，增加源汇，入>出，连汇，否则连源，满流可行
 
 
 
-#####10746
+####10746
 
 init
 
 
 
-#####10763
+####10763
 
 init
 
 
 
-#####10785
+####10785
 
 init
 
 
 
-#####10790
+####10790
 
 init
 
 
 
-#####10801
+####10801
 
 最短路
 
 
 
-#####10803
+####10803
 
 init
 
 
 
-#####10806
+####10806
 
 init
 
 
 
-#####10815
+####10815
 
 sort
 
 
 
-#####10878
+####10878
 
 init
 
 
 
-#####10879
+####10879
 
 init
 
 
 
-#####10905
+####10905
 
 init
 
 
 
-#####10916
+####10916
 
 init
 
 
 
-#####10970
+####10970
 
 init
 
 
 
-#####10985
+####10985
 
 init
 
 
 
-#####10986
+####10986
 
 init
 
 
 
-#####1103
+####1103
 
 dfs找联通块,加边界
 
 
 
-#####11038
+####11038
 
 数位dp
 
 
 
-#####11044
+####11044
 
 init
 
 
 
-#####11045
+####11045
 
 init
 
 
 
-#####11082
+####11082
 
 最小割
 
 
 
-#####11111
+####11111
 
 init
 
 
 
-#####112
+####112
 
 init
 
 
 
-#####11205
+####11205
 
 init
 
 
 
-#####11234
+####11234
 
 init
 
 
 
-#####11297
+####11297
 
 init
 
 
 
-#####113
+####113
 
 init
 
 
 
-#####11419
+####11419
 
 init
 
 
 
-#####11488
+####11488
 
 init
 
 
 
-#####1151
+####1151
 
 dfs枚举+kruskal
 
 
 
-#####11809
+####11809
 
 数学，乱搞，对数
 
 
 
-#####11988
+####11988
 
 list
 
 
 
-#####120
+####120
 
 init
 
 
 
-#####12096
+####12096
 
 STL,set
 
 
 
-#####12108
+####12108
 
 模拟
 
 
 
-#####12186_AnotherCrisis
+####12186 AnotherCrisis
 
 树形dp
 
 
 
-#####1218_PerfectService
+####1218 PerfectService
 
 树形dp
 
 
 
-#####122
+####122
 
 二叉树,bfs
 
 
 
-#####1220_PartyatHaliBula
+####1220 PartyatHaliBula
 
 树形dp
 
 
 
-#####12219
+####12219
 
 表达式树化简，map判重，用sscanf+正则tle
 
 
 
-#####1225
+####1225
 
 乱搞
 
 
 
-#####12264
+####12264
 
 network flow,题意略坑，某个army移动过后不能再移动，二分答案，每个点拆成左右两部分，源连左，右连汇，边界点到汇容量为mid…
 
 
 
-#####123
+####123
 
 init
 
 
 
-#####1232
+####1232
 
 init
 
 
 
-#####124
+####124
 
 init
 
 
 
-#####12412
+####12412
 
 模拟乱搞，要仔细
 
 
 
-#####125
+####125
 
 init
 
 
 
-#####12549
+####12549
 
 行列消除，如果没有障碍物，显然是二分图最小点覆盖；遇到障碍物移到新的行列即可,建图是一样的
 
 
 
-#####12657
+####12657
 
 双向链表，模拟
 
 
 
-#####12661
+####12661
 
 最短路
 
 
 
-#####127
+####127
 
 init
 
 
 
-#####131
+####131
 
 UVa 131
 
 
 
-#####1328_Period
+####1328 Period
 
 KMP
 
 
 
-#####133
+####133
 
 模拟乱搞
 
 
 
-#####1339
+####1339
 
 sort统计乱搞
 
 
 
-#####1349
+####1349
 
 MCMF,二分图,每一个点属于一个有向圈->每一个点有唯一后继
 
 
 
-#####136
+####136
 
 红黑树,乱搞
 
 
 
-#####1368
+####1368
 
 字符串模拟
 
 
 
-#####1380_ASchedulingProblem
+####1380 ASchedulingProblem
 
 树形dp,好难,f[i]表示从孩子到i的最长链,g[i]表示从i出发的最长链,对无向边定向,s.t.最长链尽量短
 
 
 
-#####1395
+####1395
 
 kruskal
 
 
 
-#####146
+####146
 
 UVa 146
 
 
 
-#####1515
+####1515
 
 network flow,S-草，洞-T
 
 
 
-#####152
+####152
 
 init
 
 
 
-#####156
+####156
 
 stl,sort,map,vector
 
 
 
-#####1572
+####1572
 
 topo找环,A+ & B+ 在同一个块中连(A-,B+)&(B-,A+)
 
 
 
-#####1583
+####1583
 
 乱搞
 
 
 
-#####1584
+####1584
 
 乱搞
 
 
 
-#####1585
+####1585
 
 乱搞
 
 
 
-#####1586
+####1586
 
 乱搞
 
 
 
-#####1587
+####1587
 
 乱搞
 
 
 
-#####1588
+####1588
 
 匹配，乱搞
 
 
 
-#####1589
+####1589
 
 模拟
 
 
 
-#####1590
+####1590
 
 位运算，模拟
 
 
 
-#####1592
+####1592
 
 枚举,红黑树,hash
 
 
 
-#####1599
+####1599
 
 spfa,bfs,字典序,画出结构层次
 
 
 
-#####1658
+####1658
 
 两条没有公共点的路径,费用流,拆点
 
 
 
-#####1660
+####1660
 
 拆点，枚举源汇，最小割，边容量inf
 
 
 
-#####1663
+####1663
 
 最大独立集，编码差1的建边，V-FLOW/2
 
 
 
-#####1664
+####1664
 
 并查集，按权从大到小排，merge时看收益，注意long long
 
 
 
-#####1665
+####1665
 
 并查集，离线，输出格式-每个数后加空格
 
 
 
-#####196
+####196
 
 init
 
 
 
-#####201
+####201
 
 枚举统计
 
 
 
-#####202
+####202
 
 模拟除法
 
 
 
-#####210
+####210
 
 双端队列,模拟
 
 
 
-#####213
+####213
 
 位运算,乱搞
 
 
 
-#####220
+####220
 
 模拟
 
 
 
-#####221
+####221
 
 枚举扫描线,离散化
 
 
 
-#####227
+####227
 
 乱搞
 
 
 
-#####232
+####232
 
 字符串模拟
 
 
 
-#####247
+####247
 
 floyd找强联通
 
 
 
-#####253
+####253
 
 模拟乱搞
 
 
 
-#####270
+####270
 
 init
 
 
 
-#####272
+####272
 
 乱搞
 
 
 
-#####297
+####297
 
 init
 
 
 
-#####299
+####299
 
 init
 
 
 
-#####340
+####340
 
 乱搞
 
 
 
-#####350
+####350
 
 init
 
 
 
-#####375
+####375
 
 init
 
 
 
-#####400
+####400
 
 模拟乱搞
 
 
 
-#####401
+####401
 
 乱搞
 
 
 
-#####408
+####408
 
 init
 
 
 
-#####409
+####409
 
 init
 
 
 
-#####414
+####414
 
 init
 
 
 
-#####424
+####424
 
 init
 
 
 
-#####439
+####439
 
 init
 
 
 
-#####442
+####442
 
 init
 
 
 
-#####445
+####445
 
 init
 
 
 
-#####455
+####455
 
 乱搞
 
 
 
-#####457
+####457
 
 init
 
 
 
-#####458
+####458
 
 init
 
 
 
-#####465
+####465
 
 init
 
 
 
-#####488
+####488
 
 init
 
 
 
-#####489
+####489
 
 模拟乱搞
 
 
 
-#####490
+####490
 
 init
 
 
 
-#####494
+####494
 
 init
 
 
 
-#####506
+####506
 
 模拟,树,标记,spj
 
 
 
-#####508
+####508
 
 模拟,compare
 
 
 
-#####509
+####509
 
 模拟，位运算
 
 
 
-#####512
+####512
 
 离线乱搞
 
 
 
-#####514
+####514
 
 stack,模拟
 
 
 
-#####515
+####515
 
 init
 
 
 
-#####532
+####532
 
 init
 
 
 
-#####537
+####537
 
 init
 
 
 
-#####540
+####540
 
 stl,list
 
 
 
-#####548
+####548
 
 init
 
 
 
-#####550
+####550
 
 init
 
 
 
-#####558
+####558
 
 init
 
 
 
-#####563
+####563
 
 init
 
 
 
-#####567
+####567
 
 init
 
 
 
-#####568
+####568
 
 init
 
 
 
-#####572
+####572
 
 init
 
 
 
-#####573
+####573
 
 init
 
 
 
-#####575
+####575
 
 init
 
 
 
-#####579
+####579
 
 init
 
 
 
-#####591
+####591
 
 init
 
 
 
-#####621
+####621
 
 init
 
 
 
-#####644
+####644
 
 init
 
 
 
-#####657
+####657
 
 init
 
 
 
-#####658
+####658
 
 bfs
 
 
 
-#####673
+####673
 
 init
 
 
 
-#####694
+####694
 
 init
 
 
 
-#####699
+####699
 
 init
 
 
 
-#####705
+####705
 
 init
 
 
 
-#####712
+####712
 
 init
 
 
 
-#####748
+####748
 
 init
 
 
 
-#####753
+####753
 
 network flow
 
 
 
-#####755
+####755
 
 init
 
 
 
-#####784
+####784
 
 init
 
 
 
-#####814
+####814
 
 红黑树,模拟乱搞
 
 
 
-#####816
+####816
 
 bfs,迷宫,状态判重
 
 
 
-#####820
+####820
 
 network flow
 
 
 
-#####821
+####821
 
 floyd
 
 
 
-#####839
+####839
 
 init
 
 
 
-#####846
+####846
 
 init
 
@@ -2984,337 +2993,337 @@ init
 
 
 
-#####3411_SpecialSpecialJudge
+####3411 SpecialSpecialJudge
 
 大数,计数,dp
 
 
 
-#####3447_DoraemonsNumberGame
+####3447 DoraemonsNumberGame
 
 贪心,凑样例,大数
 
 
 
-#####3587_MarlonsString
+####3587 MarlonsString
 
 KMP,计数,dp,倒着+
 
 
 
-#####1039_NumberGame
+####1039 NumberGame
 
 状压dp,记忆化搜索,考虑必胜态和必败态如何转化
 
 
 
-#####1082_StockbrokerGrapevine
+####1082 StockbrokerGrapevine
 
 init
 
 
 
-#####1134_StrategicGame
+####1134 StrategicGame
 
 树形dp
 
 
 
-#####1203_Swordfish
+####1203 Swordfish
 
 init
 
 
 
-#####1221_Risk
+####1221 Risk
 
 init
 
 
 
-#####1232_AdventureofSuperMario
+####1232 AdventureofSuperMario
 
 init
 
 
 
-#####1354_ExtendedLightsOut
+####1354 ExtendedLightsOut
 
 开关问题,枚举第一层状态,剩下的都能确定
 
 
 
-#####1455_ScheduleProblem
+####1455 ScheduleProblem
 
 init
 
 
 
-#####1508_Intervals
+####1508 Intervals
 
 init
 
 
 
-#####1586_QSNetwork
+####1586 QSNetwork
 
 init
 
 
 
-#####1655_TransportGoods
+####1655 TransportGoods
 
 init
 
 
 
-#####1721_TheDoors
+####1721 TheDoors
 
 init
 
 
 
-#####1791_CaveRaider
+####1791 CaveRaider
 
 init
 
 
 
-#####1857_FireStation
+####1857 FireStation
 
 init
 
 
 
-#####1967_FiberNetwork
+####1967 FiberNetwork
 
 init
 
 
 
-#####2027_TravellingFee
+####2027 TravellingFee
 
 init
 
 
 
-#####2158_TruckHistory
+####2158 TruckHistory
 
 init
 
 
 
-#####2702_UnrhymableRhymes
+####2702 UnrhymableRhymes
 
 双向链，贪心
 
 
 
-#####2859_MatrixSearching
+####2859 MatrixSearching
 
 init
 
 
 
-#####2913_Bus
+####2913 Bus
 
 Pass init
 
 
 
-#####2921_Stock
+####2921 Stock
 
 贪心，从后往前贪
 
 
 
-#####3088_EasterHolidays
+####3088 EasterHolidays
 
 init
 
 
 
-#####3175_NumberofContainers
+####3175 NumberofContainers
 
 找规律
 
 
 
-#####3201_TreeofTree
+####3201 TreeofTree
 
 树形dp,分组背包
 
 
 
-#####3408_Gao
+####3408 Gao
 
 最短路,dp,计数
 
 
 
-#####3409_KKV
+####3409 KKV
 
 动量守恒,计算几何,参数方程
 
 
 
-#####3415_ZhouYu
+####3415 ZhouYu
 
 期望,等比数列求和
 
 
 
-#####3420_DoubleMaze
+####3420 DoubleMaze
 
 BFS,字典序最小
 
 
 
-#####3422_GoDeeper
+####3422 GoDeeper
 
-#####2-SAT,二分
+####2-SAT,二分
 
 
 
-#####3424_Rescue
+####3424 Rescue
 
 维护(a+b)^2=a^2+2ab+b^2
 
 
 
-#####3430_DetecttheVirus
+####3430 DetecttheVirus
 
 AC自动机
 
 
 
-#####3434_HiiragisSticks
+####3434 HiiragisSticks
 
 dp,筛法,计数
 
 
 
-#####3449_DoraemonsNumberGameIII
+####3449 DoraemonsNumberGameIII
 
 打表找规律
 
 
 
-#####3450_DoraemonsRailgun
+####3450 DoraemonsRailgun
 
 dp,分组背包
 
 
 
-#####3455_ShizukasLetter
+####3455 ShizukasLetter
 
 等价判断,扫描O(1)维护出现次数
 
 
 
-#####3524_CrazyShopping
+####3524 CrazyShopping
 
 DAG,DP,背包
 
 
 
-#####3525_Disappearance
+####3525 Disappearance
 
 扫描线
 
 
 
-#####3526_WeekendParty
+####3526 WeekendParty
 
 缩点,dfs
 
 
 
-#####3540_AddingNewMachine
+####3540 AddingNewMachine
 
 线段树扫描线,离散化,计数
 
 
 
-#####3569_DrZombosssRevenge
+####3569 DrZombosssRevenge
 
 注意每多一个就要加,所以多出来的每一个期望都是ai/n
 
 
 
-#####3575_UnderAttackIII
+####3575 UnderAttackIII
 
 计算几何,椭圆转化为圆
 
 
 
-#####3580_AngryBirds
+####3580 AngryBirds
 
 记忆化搜索,状压dp,枚举,物理,斜抛运动
 
 
 
-#####3646_MatrixTransformer
+####3646 MatrixTransformer
 
 init
 
 
 
-#####3710_Friend
+####3710 Friend
 
 图，乱搞
 
 
 
-#####3747_AttackonTitans
+####3747 AttackonTitans
 
 dp,至少转化为至多
 
 
 
-#####3790_Consecutive
+####3790 Consecutive
 
 Blocks init
 
 
 
-#####3795_Grouping
+####3795 Grouping
 
 init
 
 
 
-#####3809_TheHimalayas
+####3809 TheHimalayas
 
 水
 
 
 
-#####3811_UntrustedPatrol
+####3811 UntrustedPatrol
 
 离线并查集
 
 
 
-#####3826_HierarchicalNotation
+####3826 HierarchicalNotation
 
 init
 
 
 
-#####3841_Cards
+####3841 Cards
 
 dfs,计数,逆元
 
 
 
-#####1456_MinimumTransportCost
+####1456 MinimumTransportCost
 
 init
 
 
 
-#####2008_InvitationCards
+####2008 InvitationCards
 
 init
 
