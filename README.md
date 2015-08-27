@@ -202,6 +202,17 @@ bfs,水
 
 ##HDU
 
+####4336 Card Collector
+
+容斥原理
+
+####2841 Visible Tree
+
+容斥原理。"容斥原理简单来说就是奇数个加，偶数个减。"————我操
+
+####3966 Aragorn's Story
+
+树链剖分+线段树。
 
 ####4670 Cube number on a tree
 
