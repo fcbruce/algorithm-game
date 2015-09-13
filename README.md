@@ -202,6 +202,21 @@ bfs,水
 
 ##HDU
 
+####5442 Favorite Donut
+
+最小表示法+hash
+
+####2421 Deciphering Password
+
+根据唯一分解定理，任意一个整数 N = p1^c1 * p2^c2 * ... * pk*ck ，N的因子的数量为 (c1+1) * (c2+1) * ... *(ck+1)。
+假设 A^B 的因子 f = a1^b1 * a2*b2 * ... * an*bn, f 的因子数量 count = (b1+1) * (b2+1) * ... *(bn+1), 现在要求 sum(count^3).
+count^3 = product(bi+1)^3 = product((bi+1)^3), 把式子展开再提公因子可以得 sum(count^3) = profuct(sum(j^3, j in 1 .. ci+1)).
+立方和公式 (n*(n+1)/2)^2, 注意除以2要变成乘2对模10007下的逆元。
+
+####3756 Dome of Circus
+
+三分半径。
+
 ####4336 Card Collector
 
 容斥原理
