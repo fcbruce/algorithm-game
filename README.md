@@ -202,6 +202,14 @@ bfs,水
 
 ##HDU
 
+####5441 Travel
+
+离线并查集乱搞
+
+####5437 Alish's Party
+
+优先队列乱搞
+
 ####5442 Favorite Donut
 
 最小表示法+hash
