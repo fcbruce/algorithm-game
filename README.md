@@ -957,10 +957,12 @@ init
 
 
 
-##LA(UVa
+##LA(UVa Live)
 
-Live)
 
+####7129 Rotation
+
+计算每个格点被包围了多少次，然后计算平方和，用扫描线的思想即可。
 
 
 ####2191 Potentiometers
