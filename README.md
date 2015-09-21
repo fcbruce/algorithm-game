@@ -26,6 +26,10 @@ ACM-ICPC
 
 ##Codeforces
 
+####[165D Beard Graph](code/CF/problem/165D_BeardGraph.cc)
+
+树链剖分，边权
+
 
 
 ####525A VitaliyandPie
