@@ -206,6 +206,14 @@ bfs,水
 
 ##HDU
 
+####[5478 Can you find it](code/HDU/5478_Canyoufindit.cc)
+
+2015上海赛区网络赛，费马小定理，枚举a，计算b，检查 a^k1 = b^k2 (mod C).
+
+####[5475 An easy problem](code/HDU/5475_Aneasyproblem.cc)
+
+2015上海赛区网络赛，线段树维护区间乘积。
+
 ####5441 Travel
 
 离线并查集乱搞
