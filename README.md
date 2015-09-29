@@ -1702,6 +1702,18 @@ KMP
 
 ##UVa
 
+####[11021 Tribles](code/UVA/11021_Tribles.cc)
+
+概率dp，dp[i]表示一只麻球i天后死干净的概率，则k个在第i天后死干净的概率为dp[i]^k(独立事件)，`dp[i] = p[0] + p[1] * dp[i-1]^1 + p[2] * dp[i-1]^2 + ... `.
+
+####[11427 Expect the Expected](code/UVA/11427_ExpecttheExpected.cc)
+
+概率dp，dp[i][j]表示玩了i盘胜了j盘且 j/i < p 的概率, 根据全概率公式有: `dp[i][j] = dp[i-1][j] * (1-p) + dp[i-1][j-1] * p, dp[0][0] = 1`.
+
+####[11761 Race to 1](code/UVA/11761_Raceto1/Main.java)
+
+期望dp，dp[i]表示i变为1的期望，由全期望公式有：`dp[i] = dp[i] * (1 - g[i]/p[i]) + sum(dp[i/j] / p[i])` 其中g[i]表示i素约数的个数，p[i]表示比i小的素数个数，j为i的素约数，
+化简可得：`dp[i] = (sum(dp[i/j]) + p[i]) / g[i]`.
 
 
 ####1025
