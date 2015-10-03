@@ -206,6 +206,10 @@ bfs,水
 
 ##HDU
 
+####[5493 Queue](code/HDU/5493_Queue.cc)
+
+线段树。从矮到高排序，对于第i人，前面要么空ki个位置，要么后面空ki个人，选择靠前的位置插入，找不到位置即为impossible.
+
 ####[5052 Yaoge's maximum profit](code/HDU/5052_Yaogesmaximumprofit.cc)
 
 树链剖分+区间合并。首先考虑是线段的情况:对与一个区间(从左到右)maximum profit要么在左子区间，要么在右子区间，要么右子区间最大-左子区间最小，方向可能有两种，那维护两个就可以。
