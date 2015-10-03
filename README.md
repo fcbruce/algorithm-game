@@ -206,6 +206,11 @@ bfs,水
 
 ##HDU
 
+####[5052 Yaoge's maximum profit](code/HDU/5052_Yaogesmaximumprofit.cc)
+
+树链剖分+区间合并。首先考虑是线段的情况:对与一个区间(从左到右)maximum profit要么在左子区间，要么在右子区间，要么右子区间最大-左子区间最小，方向可能有两种，那维护两个就可以。
+树上就考虑是从top到bottom还是从bottom到top两种方向。对于有根树，一条简单路径一定能分为从bottom to top 和top to bottom两段(允许为空),一样维护即可。
+
 ####[4405 Aeroplane chess](code/HDU/4405_Aeroplanechess/Main.java)
 
 期望dp。dp[i]表示从i到n的期望步数。显然有 <img src="http://www.forkosh.com/mathtex.cgi? dp[i]=\sum_{j=1}^6dp[i+j]">, 当能直接跳的时候`dp[i]=dp[to[i]]`.
@@ -1048,8 +1053,6 @@ init
 ####6663 CounttheRegions
 
 init
-
-
 
 
 ##POJ
