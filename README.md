@@ -998,6 +998,10 @@ init
 
 ##LA(UVa Live)
 
+####[7146 Defeat the Enemy](code/LA/7146_DefeattheEnemy.cc)
+
+multiset!对于敌人(A,D),我们首先要找一个Attack大于等于D的，其次要这个可以two pointers搞，然后要找Defence仅大于A的，如果找不到用最小的。
+
 
 ####7129 Rotation
 
