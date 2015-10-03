@@ -1716,6 +1716,11 @@ KMP
 
 ##UVa
 
+####[10900 So you want to be a 2n-aire](code/UVA/10900_Soyouwanttobea2naire/Main.java)
+
+期望。假设现在在第n题，如果答对，能拿到钱2<sup>n</sup>，如果答对的概率为P，那么选择答能拿到的期望奖金为 P\*2<sup>n</sup>,如果不答，则拿2<sup>n-1</sup>。
+那么如果P比较大，我们就会选择答，否则我们不答，那么我们可以计算出一个P的临界值P<sub>0</sub>，然后根据全期望公式，可推出转移方程。
+
 ####[10288 Coupons](code/UVA/10288_Coupons/Main.java)
 
 期望。离散性随机变量的期望为 <img src="http://www.forkosh.com/mathtex.cgi? E(X)=\sum_{k=1}^{\infty}x_kp_k">.
