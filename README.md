@@ -206,9 +206,13 @@ bfs,水
 
 ##HDU
 
+####[5486 Difference of Clustering](code/HDU/5486_DifferenceofClustering.cc)
+
+可以把图看作二分图。如果某个块左部1个点、右部1个点，就是1:1，如果左部一个点、右部若干个点，就是split，如果左部若干点，右部1个点，就是merge。用度数乱搞就行。
+
 ####[5493 Queue](code/HDU/5493_Queue.cc)
 
-线段树。从矮到高排序，对于第i人，前面要么空ki个位置，要么后面空ki个人，选择靠前的位置插入，找不到位置即为impossible.
+线段树。从矮到高排序，对于第i人，前面要么空k<sub>i</sub>个位置，要么后面空k<sub>i</sub>个人，选择靠前的位置插入，找不到位置即为impossible.
 
 ####[5052 Yaoge's maximum profit](code/HDU/5052_Yaogesmaximumprofit.cc)
 
@@ -217,7 +221,7 @@ bfs,水
 
 ####[4405 Aeroplane chess](code/HDU/4405_Aeroplanechess/Main.java)
 
-期望dp。dp[i]表示从i到n的期望步数。显然有 <img src="http://www.forkosh.com/mathtex.cgi? dp[i]=\sum_{j=1}^6dp[i+j]">, 当能直接跳的时候`dp[i]=dp[to[i]]`.
+期望dp。dp[i]表示从i到n的期望步数。显然有 <img src="http://www.forkosh.com/mathtex.cgi? dp[i]=\frac16\sum_{j=1}^6dp[i+j]">, 当能直接跳的时候`dp[i]=dp[to[i]]`.
 
 ####[3853 LOOPS](code/HDU/3853_LOOPS/Main.java)
 
