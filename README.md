@@ -1072,8 +1072,7 @@ init
 ####[2096 Collecting Bugs](code/POJ/2096_CollectingBugs/Main.java)
 
 期望dp。dp[i][j]表示从已经发现i种bug分布在j个系统到(n,s)的期望步数，由全期望公式
-<img src='http://www.sciweavers.org/upload/Tex2Img_1443965976/eqn.png'>
-<!dp[i][j]=dp[i][j]\frac in\frac js+dp[i+1][j]\frac{n-i}n\frac js+dp[i][j+1]\frac in\frac{s-j}s+dp[i+1][j+1]\frac{n-i}n\frac{s-j}s+1>, 
+<img src='http://www.sciweavers.org/upload/Tex2Img_1443965976/eqn.png' dp[i][j]=dp[i][j]\frac in\frac js+dp[i+1][j]\frac{n-i}n\frac js+dp[i][j+1]\frac in\frac{s-j}s+dp[i+1][j+1]\frac{n-i}n\frac{s-j}s+1>, 
 化简即得状态转移方程。
 
 ####3101 Astronomy
@@ -1738,8 +1737,7 @@ KMP
 ####[10288 Coupons](code/UVA/10288_Coupons/Main.java)
 
 期望。离散性随机变量的期望为 <img src='http://www.sciweavers.org/upload/Tex2Img_1443966103/eqn.png' E(X)=\sum_{k=1}^{\infty}x_kp_k>.
-假设我们已经有了t个,令`s=t/n`,则获得一个新的需要k次的概率为s<sup>k-1</sup>(1-s),则<img src='http://www.sciweavers.org/upload/Tex2Img_1443966176/eqn.png'>
-<!E(K)=(1-s)\sum_{k=1}^{\infty}ks^{k-1}>.
+假设我们已经有了t个,令`s=t/n`,则获得一个新的需要k次的概率为s<sup>k-1</sup>(1-s),则<img src='http://www.sciweavers.org/upload/Tex2Img_1443966176/eqn.png' E(K)=(1-s)\sum_{k=1}^{\infty}ks^{k-1}>.
 令<img src='http://www.sciweavers.org/upload/Tex2Img_1443966291/eqn.png' T=\sum_{k=1}^{\infty}ks^{k-1}>,用错位相减法可求得`E(K)=(1-s)T=n/(n-t)`,求和即为总的期望。
 
 ####[10491 Cows and Cars](code/UVA/10491_CowsandCars/Main.java)
