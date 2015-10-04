@@ -221,11 +221,11 @@ bfs,水
 
 ####[4405 Aeroplane chess](code/HDU/4405_Aeroplanechess/Main.java)
 
-期望dp。dp[i]表示从i到n的期望步数。显然有 <img src="http://www.forkosh.com/mathtex.cgi? dp[i]=\frac16\sum_{j=1}^6dp[i+j]">, 当能直接跳的时候`dp[i]=dp[to[i]]`.
+期望dp。dp[i]表示从i到n的期望步数。显然有 <img src='http://www.sciweavers.org/upload/Tex2Img_1443965352/eqn.png'>, 当能直接跳的时候`dp[i]=dp[to[i]]`.
 
 ####[3853 LOOPS](code/HDU/3853_LOOPS/Main.java)
 
-期望dp。dp[i][j]表示从(i,j)到(n,m)的期望魔法值。显然有 <img src="http://www.forkosh.com/mathtex.cgi?  dp[i][j]=dp[i][j]P_1[i][j]+dp[i][j+1]P_2[i][j]+dp[i+1][j]P_3[i][j]+2"> ,
+期望dp。dp[i][j]表示从(i,j)到(n,m)的期望魔法值。显然有 <img src='http://www.sciweavers.org/upload/Tex2Img_1443965477/eqn.png'> ,
 化简整理得 <img src = "http://www.forkosh.com/mathtex.cgi? dp[i][j]=\frac{dp[i][j+1]P_2[i][j]+dp[i+1][j]P_3[i][j]+2}{1-P_1[i][j]}">，注意当P<sub>1</sub>[i][j] = 1时，该点不可达。
 
 ####[5029 Relief grain](code/HDU/5029_Reliefgrain.cc)
