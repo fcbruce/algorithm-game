@@ -221,12 +221,18 @@ bfs,水
 
 ####[4405 Aeroplane chess](code/HDU/4405_Aeroplanechess/Main.java)
 
-期望dp。dp[i]表示从i到n的期望步数。显然有 <img src='http://latex.numberempire.com/render?%5Cfrac16%5Csum_%7Bj%3D1%7D%5E6dp%5Bi%2Bj%5D&sig=c33b202b4fe776b489f95efe5c74033a' dp[i]=\frac16\sum_{j=1}^6dp[i+j]> , 当能直接跳的时候`dp[i]=dp[to[i]]`.
+期望dp。dp[i]表示从i到n的期望步数。显然有
+<img src='http://latex.numberempire.com/render?%5Csmall%20dp%5Bi%5D%3D%5Cfrac16%5Csum_%7Bj%3D1%7D%5E6dp%5Bi%2Bj%5D&sig=9c34c6817f663edaa44ab2db13bfb26a' 
+dp[i]=\frac16\sum_{j=1}^6dp[i+j]> , 
+当能直接跳的时候`dp[i]=dp[to[i]]`.
 
 ####[3853 LOOPS](code/HDU/3853_LOOPS/Main.java)
 
-期望dp。dp[i][j]表示从(i,j)到(n,m)的期望魔法值。显然有 <img src='http://www.sciweavers.org/upload/Tex2Img_1443965477/eqn.png' dp[i][j]=dp[i][j]P_1[i][j]+dp[i][j+1]P_2[i][j]+dp[i+1][j]P_3[i][j]+2> ,
-化简整理得 <img src='http://www.sciweavers.org/upload/Tex2Img_1443965878/eqn.png' dp[i][j]=\frac{dp[i][j+1]P_2[i][j]+dp[i+1][j]P_3[i][j]+2}{1-P_1[i][j]}>，注意当P<sub>1</sub>[i][j] = 1时，该点不可达。
+期望dp。dp[i][j]表示从(i,j)到(n,m)的期望魔法值。显然有
+<img src='http://latex.numberempire.com/render?%5Csmall%20dp%5Bi%5D%5Bj%5D%3Ddp%5Bi%5D%5Bj%5DP_1%5Bi%5D%5Bj%5D%2Bdp%5Bi%5D%5Bj%2B1%5DP_2%5Bi%5D%5Bj%5D%2Bdp%5Bi%2B1%5D%5Bj%5DP_3%5Bi%5D%5Bj%5D%2B2&sig=cc7f2d4ce7e09964b69064f9c0846d10' 
+ dp[i][j]=dp[i][j]P_1[i][j]+dp[i][j+1]P_2[i][j]+dp[i+1][j]P_3[i][j]+2> ,
+化简整理得 <img src='http://latex.numberempire.com/render?%5Csmall%20dp%5Bi%5D%5Bj%5D%3D%5Cfrac%7Bdp%5Bi%5D%5Bj%2B1%5DP_2%5Bi%5D%5Bj%5D%2Bdp%5Bi%2B1%5D%5Bj%5DP_3%5Bi%5D%5Bj%5D%2B2%7D%7B1-P_1%5Bi%5D%5Bj%5D%7D&sig=320dcb174ba1a8bee68c04d748b6f1d2' 
+ dp[i][j]=\frac{dp[i][j+1]P_2[i][j]+dp[i+1][j]P_3[i][j]+2}{1-P_1[i][j]}>，注意当P<sub>1</sub>[i][j] = 1时，该点不可达。
 
 ####[5029 Relief grain](code/HDU/5029_Reliefgrain.cc)
 
@@ -1076,7 +1082,8 @@ init
 ####[2096 Collecting Bugs](code/POJ/2096_CollectingBugs/Main.java)
 
 期望dp。dp[i][j]表示从已经发现i种bug分布在j个系统到(n,s)的期望步数，由全期望公式
-<img src='http://www.sciweavers.org/upload/Tex2Img_1443965976/eqn.png' dp[i][j]=dp[i][j]\frac in\frac js+dp[i+1][j]\frac{n-i}n\frac js+dp[i][j+1]\frac in\frac{s-j}s+dp[i+1][j+1]\frac{n-i}n\frac{s-j}s+1>, 
+<img src='http://latex.numberempire.com/render?%5Csmall%20dp%5Bi%5D%5Bj%5D%3Ddp%5Bi%5D%5Bj%5D%5Cfrac%20in%5Cfrac%20js%2Bdp%5Bi%2B1%5D%5Bj%5D%5Cfrac%7Bn-i%7Dn%5Cfrac%20js%2Bdp%5Bi%5D%5Bj%2B1%5D%5Cfrac%20in%5Cfrac%7Bs-j%7Ds%2Bdp%5Bi%2B1%5D%5Bj%2B1%5D%5Cfrac%7Bn-i%7Dn%5Cfrac%7Bs-j%7Ds%2B1&sig=aca9b7b7fe25b3748e10c7c7b11c72ac' 
+dp[i][j]=dp[i][j]\frac in\frac js+dp[i+1][j]\frac{n-i}n\frac js+dp[i][j+1]\frac in\frac{s-j}s+dp[i+1][j+1]\frac{n-i}n\frac{s-j}s+1>, 
 化简即得状态转移方程。
 
 ####3101 Astronomy
@@ -1740,9 +1747,13 @@ KMP
 
 ####[10288 Coupons](code/UVA/10288_Coupons/Main.java)
 
-期望。离散性随机变量的期望为 <img src='http://www.sciweavers.org/upload/Tex2Img_1443966103/eqn.png' E(X)=\sum_{k=1}^{\infty}x_kp_k>.
-假设我们已经有了t个,令`s=t/n`,则获得一个新的需要k次的概率为s<sup>k-1</sup>(1-s),则<img src='http://www.sciweavers.org/upload/Tex2Img_1443966176/eqn.png' E(K)=(1-s)\sum_{k=1}^{\infty}ks^{k-1}>.
-令<img src='http://www.sciweavers.org/upload/Tex2Img_1443966291/eqn.png' T=\sum_{k=1}^{\infty}ks^{k-1}>,用错位相减法可求得`E(K)=(1-s)T=n/(n-t)`,求和即为总的期望。
+期望。离散性随机变量的期望为 <img src='http://latex.numberempire.com/render?%5Csmall%20E%28X%29%3D%5Csum_%7Bk%3D1%7D%5E%7B%5Cinfty%7Dx_kp_k&sig=9bbc5969829707520b14b518790ca4d3' 
+E(X)=\sum_{k=1}^{\infty}x_kp_k>.
+假设我们已经有了t个,令`s=t/n`,则获得一个新的需要k次的概率为s<sup>k-1</sup>(1-s),则
+<img src='http://latex.numberempire.com/render?%5Csmall%20E%28K%29%3D%281-s%29%5Csum_%7Bk%3D1%7D%5E%7B%5Cinfty%7Dk%20s%5E%7Bk-1%7D&sig=4be45faebe9a91e978fcf1a1b4f53dd7' 
+E(K)=(1-s)\sum_{k=1}^{\infty}ks^{k-1}>.
+令<img src='http://latex.numberempire.com/render?%5Csmall%20T%3D%5Csum_%7Bk%3D1%7D%5E%7B%5Cinfty%7Dk%20s%5E%7Bk-1%7D&sig=6837a9f135a938a78249ea2627bb95a4' T=\sum_{k=1}^{\infty}ks^{k-1}>,
+用错位相减法可求得`E(K)=(1-s)T=n/(n-t)`,求和即为总的期望。
 
 ####[10491 Cows and Cars](code/UVA/10491_CowsandCars/Main.java)
 
@@ -1751,7 +1762,7 @@ KMP
 ####[11181 Probability|Given](code/UVA/11181_ProbabilityGiven/Main.java)
 
 概率，贝叶斯定理。已知n人各自买东西的概率P(H<sub>i</sub>)，最终有r个人买了东西，求每个人买了东西的概率。
-求的是后验概率，贝叶斯公式:<img src='http://www.sciweavers.org/upload/Tex2Img_1443966329/eqn.png' P(H_k|A)=\frac{P(AH_k)}{P(A)}> ,
+求的是后验概率，贝叶斯公式:<img src='http://latex.numberempire.com/render?%5Csmall%20P%28H_k%7CA%29%3D%5Cfrac%7BP%28A%20H_k%29%7D%7BP%28A%29%7D&sig=a81c10e519886ff9ac9f18f6d86f3055' P(H_k|A)=\frac{P(AH_k)}{P(A)}> ,
 P(A)为r人买东西这一事件的概率。本质是条件概率。
 
 ####[12230 Crossing Rivers](code/UVA/12230_CrossingRivers/Main.java)
