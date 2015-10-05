@@ -221,7 +221,7 @@ bfs,水
 
 ####[4405 Aeroplane chess](code/HDU/4405_Aeroplanechess/Main.java)
 
-期望dp。dp[i]表示从i到n的期望步数。显然有 <img src='http://www.sciweavers.org/upload/Tex2Img_1443965787/eqn.png' dp[i]=\frac16\sum_{j=1}^6dp[i+j]> , 当能直接跳的时候`dp[i]=dp[to[i]]`.
+期望dp。dp[i]表示从i到n的期望步数。显然有 <img src='http://latex.numberempire.com/render?%5Cfrac16%5Csum_%7Bj%3D1%7D%5E6dp%5Bi%2Bj%5D&sig=c33b202b4fe776b489f95efe5c74033a' dp[i]=\frac16\sum_{j=1}^6dp[i+j]> , 当能直接跳的时候`dp[i]=dp[to[i]]`.
 
 ####[3853 LOOPS](code/HDU/3853_LOOPS/Main.java)
 
