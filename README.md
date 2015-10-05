@@ -998,6 +998,10 @@ init
 
 ##LA(UVa Live)
 
+####[7147 World Cup](code/LA/7147_WorldCup/Main.java)
+
+脑洞。求最大：对于后面的队伍，拿最高的分，然后就是前m+1个队伍中垫底分数最高，可以并列，总的win场次=lose场次，那么要最高，大家分都一样，如果是奇数就取`max(draw, lose)`。求最小反过来考虑即可。
+
 ####[7146 Defeat the Enemy](code/LA/7146_DefeattheEnemy.cc)
 
 multiset!对于敌人(A,D),我们首先要找一个Attack大于等于D的，其次要这个可以two pointers搞，然后要找Defence仅大于A的，如果找不到用最小的。
