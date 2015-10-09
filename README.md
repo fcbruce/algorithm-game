@@ -1004,6 +1004,12 @@ init
 
 ##LA(UVa Live)
 
+####[7143 Room Assignment](code/LA/7143_RoomAssignment.cc)
+
+dp+组合数学。dp[i][j]表示装完i房间后还剩j对双胞胎，接下来要装i+1房间，j中选x对双胞胎都装进i+1，然后j-x中选y对拆开其中1个装进去，最后装那些独生子女，即
+<img src='http://latex.numberempire.com/render?dp%5Bi%5D%5Bj%5D%5Cmathrm%7BC%7D_j%5Ex%5Cmathrm%7BC%7D_%7Bj-x%7D%5E%7By%7D%5Cmathrm%7BC%7D_%7Brest-2j%7D%5E%7Bc%5Bi%5D-2x-y%7D&sig=b3ceb1a2ab302e027886df75451df966'
+dp[i][j]\mathrm{C}_j^x\mathrm{C}_{j-x}^{y}\mathrm{C}_{rest-2j}^{c[i]-2x-y}> 
+
 ####[7141 BombX](code/LA/7141_BombX.cc)
 
 离散化+线段树扫描线。首先想一想POJ的那道Stars in the Window，就是那篇情书，这两题的建模其实非常相似。炸弹需要W\*H的空间，那么不妨反过来考虑卒，一个卒占W\*H的空间，可以重叠。
