@@ -1095,6 +1095,22 @@ init
 
 ##POJ
 
+####[1011 Sticks](code/POJ/1011_Sticks.cc)
+
+搜索+减枝，从大到小搜。
+
+####[3110 Jenny's First Exam](code/POJ/3110_JennysFirstExam.cc)
+
+线段树，日期映射。
+
+####[3134 Power Calculus](code/POJ/3134_PowerCalculus.cc)
+
+暴搜+打表。
+
+####[3468 A Simple Problem with Integers](code/POJ/3468_ASimpleProblemwithIntegers.cc)
+
+线段树。
+
 ####[2096 Collecting Bugs](code/POJ/2096_CollectingBugs/Main.java)
 
 期望dp。dp[i][j]表示从已经发现i种bug分布在j个系统到(n,s)的期望步数，由全期望公式
