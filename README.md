@@ -26,23 +26,41 @@ ACM-ICPC
 
 ##Codeforces
 
+####[581C Developing Skills](code/CF/problem/DevelopingSkills.cc)
+
+贪心乱搞
+
+####[582B Once Again...](code/CF/problem/582B_OnceAgain.cc)
+
+dp,循环节,乱搞
+
+####[582A GCD Table](code/CF/problem/582A_GCDTable.py)
+
+gcd乱搞，贪心
+
+####[584E Anton and Ira](code/CF/problem/584E_AntonandIra.cc)
+
+选择排序+冒泡排序思想乱搞
+
+####[584D Dima and Lisa](code/CF/problem/584D_DimaandLisa.cc)
+
+二分乱搞
+
+####[584C Marina and Vasya](code/CF/problem/584C_MarinaandVasya/Main.java)
+
+字符串乱搞
+
 ####[165D Beard Graph](code/CF/problem/165D_BeardGraph.cc)
 
 树链剖分，边权
-
-
 
 ####525A VitaliyandPie
 
 模拟，统计
 
-
-
 ####525B PashaandString
 
 乱搞
-
-
 
 ####525C IIyaandSticks
 
