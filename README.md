@@ -224,6 +224,10 @@ bfs,水
 
 ##HDU
 
+####[5601 N\*M bulbs](code/HDU/5601_N*Mbulbs.cc)
+
+1的格子要进去奇数次，0的格子要进去偶数次，左上到右下一共要n+m-1步，判断是否同奇偶即可。
+
 ####[5486 Difference of Clustering](code/HDU/5486_DifferenceofClustering.cc)
 
 可以把图看作二分图。如果某个块左部1个点、右部1个点，就是1:1，如果左部一个点、右部若干个点，就是split，如果左部若干点，右部1个点，就是merge。用度数乱搞就行。
