@@ -1,4 +1,4 @@
-ACM-ICPC
+algorithm game
 ========
 
 
