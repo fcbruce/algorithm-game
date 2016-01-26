@@ -3,12 +3,17 @@ algorithm game
 
 
 ###TODO
-考虑添加Leetcode && 51Nod
+考虑添加Leetcode
 
 
+##[51NOD](code/51NOD/)
+
+####[1459 迷宫问题](code/51NOD/1459_迷宫问题.cc)
+
+最短路
 
 
-##BZOJ
+##[BZOJ](code/BZOJ/)
 
 
 
@@ -22,7 +27,7 @@ algorithm game
 
 
 
-##Codeforces
+##[Codeforces](code/CF/)
 
 ####[581C Developing Skills](code/CF/problem/DevelopingSkills.cc)
 
@@ -220,7 +225,7 @@ bfs,水
 
 
 
-##HDU
+##[HDU](code/HDU/)
 
 ####[5601 N\*M bulbs](code/HDU/5601_N*Mbulbs.cc)
 
@@ -1022,7 +1027,7 @@ init
 
 
 
-##LA(UVa Live)
+##[LA(UVa Live)](code/LA/)
 
 ####[7143 Room Assignment](code/LA/7143_RoomAssignment.cc)
 
@@ -1113,7 +1118,7 @@ init
 init
 
 
-##POJ
+##[POJ](code/POJ/)
 
 ####[1426 Find The Multiple](code/POJ/1426_FindTheMultiple.cc)
 
@@ -1630,7 +1635,7 @@ init
 
 
 
-##SGU
+##[SGU](code/SGU/)
 
 
 
@@ -1644,7 +1649,7 @@ dfs,树的重心,树分治基础
 
 
 
-##SPOJ
+##[SPOJ](code/SPOJ/)
 
 
 
@@ -1784,7 +1789,7 @@ KMP
 
 
 
-##URAL
+##[URAL]((code/URAL/))
 
 
 
@@ -1806,7 +1811,7 @@ KMP
 
 
 
-##UVa
+##[UVa](code/UVA/)
 
 ####[10900 So you want to be a 2n-aire](code/UVA/10900_Soyouwanttobea2naire/Main.java)
 
@@ -3193,7 +3198,7 @@ init
 
 
 
-##ZOJ
+##[ZOJ](code/ZOJ/)
 
 
 
