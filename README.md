@@ -2,10 +2,8 @@ algorithm game
 ========
 
 
-偷懒就只按OJ分类,懒得排序。
-
-之前把题目的类型和思路放commit里，发现提交不方便，索性放README里。
-一半题目的解题思路都已经总结出来了，剩下(init)的以后补上。
+###TODO
+考虑添加Leetcode && 51Nod
 
 
 
@@ -1116,6 +1114,14 @@ init
 
 
 ##POJ
+
+####[1459 Power Network](code/POJ/1459_PowerNetwork.cc)
+
+多源多汇最大流
+
+####[1019 NumberSequence](code/POJ/1019_NumberSequence.cc)
+
+二分乱搞
 
 ####[1011 Sticks](code/POJ/1011_Sticks.cc)
 
