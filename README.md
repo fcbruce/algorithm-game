@@ -1115,6 +1115,10 @@ init
 
 ##POJ
 
+####[1426 Find The Multiple](code/POJ/1426_FindTheMultiple.cc)
+
+bfs,同余
+
 ####[1035 Spell checker](code/POJ/1035_Spellchecker.cc)
 
 字符串乱搞
