@@ -1115,6 +1115,10 @@ init
 
 ##POJ
 
+####[1035 Spell checker](code/POJ/1035_Spellchecker.cc)
+
+字符串乱搞
+
 ####[1459 Power Network](code/POJ/1459_PowerNetwork.cc)
 
 多源多汇最大流
