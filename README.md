@@ -15,7 +15,7 @@ dp,dp[i][j]表示i到j构成回文串最少要添加的字符
 ##[BZOJ](code/BZOJ/)
 
 
-####[1036 树的统计Count](code/BZOJ/1036_树的统计.cpp)  
+####[1036 树的统计Count](code/BZOJ/1036_树的统计.cc)  
 树链剖分,点权,基础题
 
 
