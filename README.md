@@ -1,34 +1,22 @@
 algorithm game
 ========
 
-
-###TODO
-考虑添加Leetcode
-
+##[LeetCode](code/LeetCode/)
 
 ##[51NOD](code/51NOD/)
 
-####[1092 回文字符串](code/51NOD/1092_回文字符串.cc)
-
+####[1092 回文字符串](code/51NOD/1092_回文字符串.cc)  
 dp,dp[i][j]表示i到j构成回文串最少要添加的字符
 
-####[1459 迷宫问题](code/51NOD/1459_迷宫问题.cc)
-
+####[1459 迷宫问题](code/51NOD/1459_迷宫问题.cc)  
 最短路
 
 
 ##[BZOJ](code/BZOJ/)
 
 
-
-####1036 树的统计Count
-
+####[1036 树的统计Count](code/BZOJ/1036_树的统计.cpp)  
 树链剖分,点权,基础题
-
-
-
-
-
 
 
 ##[Codeforces](code/CF/)
