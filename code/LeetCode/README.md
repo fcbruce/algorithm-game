@@ -17,3 +17,6 @@ binary search, good problem!
 
 ####[5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)  
 dp
+
+####[6. ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)
+implementation, string
