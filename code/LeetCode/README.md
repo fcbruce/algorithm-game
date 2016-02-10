@@ -14,3 +14,6 @@ ascii + interesting
 
 ####[4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
 binary search, good problem!
+
+####[5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)  
+dp
