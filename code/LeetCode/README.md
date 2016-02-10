@@ -20,3 +20,6 @@ dp
 
 ####[6. ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)
 implementation, string
+
+####[7. Reverse Integer](https://leetcode.com/problems/reverse-integer/)
+implementation
