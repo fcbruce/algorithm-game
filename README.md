@@ -219,8 +219,9 @@ bfs,水
 
 ##[HDU](code/HDU/)
 
-####[4513 吉哥系列故事————完美队形II](http://acm.hdu.edu.cn/showproblem.php?pid=4513)  [code](code/HDU/4513_吉哥系列故事完美队形II.cc)
-manacher
+####[4513 吉哥系列故事————完美队形II](http://acm.hdu.edu.cn/showproblem.php?pid=4513)  
+manacher  
+[code](code/HDU/4513_吉哥系列故事完美队形II.cc)
 
 ####[5601 N\*M bulbs](code/HDU/5601_N*Mbulbs.cc)
 
@@ -1115,8 +1116,9 @@ init
 
 ##[POJ](code/POJ/)
 
-####[3974 Palindrome](http://poj.org/problem?id=3974) [code](code/POJ/3974_Palindrome.cc)
-manacher
+####[3974 Palindrome](http://poj.org/problem?id=3974) 
+manacher  
+[code](code/POJ/3974_Palindrome.cc)
 
 ####[1426 Find The Multiple](code/POJ/1426_FindTheMultiple.cc)
 
