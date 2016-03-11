@@ -1,0 +1,2 @@
+main: main.c qsort.c
+	gcc -o main main.c qsort.c -I -std=c11.
