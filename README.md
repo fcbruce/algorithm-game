@@ -1023,7 +1023,12 @@ init
 
 
 
-##[LA(UVa Live)](code/LA/)
+##[LA(UVa Live)](https://icpcarchive.ecs.baylor.edu/index.php)  
+
+####[2570 Shredding Company](https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&category=120&page=show_problem&problem=571)  
+dfs 
+[code](code/LA/2570_ShreddingCompany.cc)  
+
 
 ####[7143 Room Assignment](code/LA/7143_RoomAssignment.cc)
 
