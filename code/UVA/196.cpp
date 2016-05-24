@@ -48,7 +48,6 @@ void save(int i,int j)
             y=y*10+s[p]-48;
             p++;
         }
-        //printf("x=%d y=%d\n",x,y);
         v[i][j].push_back(PAIR(y,x));
         x=y=0;
     }
@@ -63,14 +62,13 @@ int dfs(int x,int y)
     for (int i=0;i!=v[x][y].size();i++)
         res+=dfs(v[x][y][i].first,v[x][y][i].second);
 
-    return res;
+    return MAP[x][y] = res;
 }
 
 int main()
 {
     #ifndef ONLINE_JUDGE
         freopen("/home/fcbruce/文档/code/t","r",stdin);
-    //    freopen("/home/fcbruce/文档/code/t1","w",stdout);
     #endif // ONLINE_JUDGE
 
     int tt;
@@ -91,9 +89,7 @@ int main()
                 }
                 else
                 {
-                    //puts(s);
                     save(i,j);
-                    //puts("----------------------");
                 }
             }
         }

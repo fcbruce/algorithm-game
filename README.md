@@ -2763,9 +2763,9 @@ spfa,bfs,字典序,画出结构层次
 
 
 
-####196
-
-init
+####[196 Spreadsheet](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=132)  
+DAG, dp  
+[code](code/UVA/196.cpp)
 
 
 
