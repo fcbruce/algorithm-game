@@ -1121,6 +1121,10 @@ init
 
 ##[POJ](code/POJ/)
 
+####[1862 Stripies](http://poj.org/problem?id=1862)  
+greed, heap  
+[code](code/POJ/1862_Stripies.cc)  
+
 ####[3974 Palindrome](http://poj.org/problem?id=3974) 
 manacher  
 [code](code/POJ/3974_Palindrome.cc)
@@ -1817,6 +1821,10 @@ KMP
 
 
 ##[UVa](code/UVA/)
+
+####[10798 Be wary of Roses](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1739)  
+bfs  
+[code](code/UVA/10798_BewaryofRoses.cc)  
 
 ####[10900 So you want to be a 2n-aire](code/UVA/10900_Soyouwanttobea2naire/Main.java)
 
