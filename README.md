@@ -228,9 +228,9 @@ bfs,水
 manacher  
 [code](code/HDU/4513_吉哥系列故事完美队形II.cc)
 
-####[5601 N\*M bulbs](code/HDU/5601_N*Mbulbs.cc)
-
-1的格子要进去奇数次，0的格子要进去偶数次，左上到右下一共要n+m-1步，判断是否同奇偶即可。
+####[5601 N\*M bulbs](http://acm.hdu.edu.cn/showproblem.php?pid=5601)  
+1的格子要进去奇数次，0的格子要进去偶数次，左上到右下一共要n+m-1步，判断是否同奇偶即可。  
+[code](code/HDU/5601_NMbulbs.cc) 
 
 ####[5486 Difference of Clustering](code/HDU/5486_DifferenceofClustering.cc)
 
