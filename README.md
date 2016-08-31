@@ -1827,6 +1827,11 @@ KMP
 
 ##[UVa](code/UVA/)
 
+####[10006 Carmichael Numbers](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=947)  
+random test, quick power  
+[code](code/UVA/10006_CarmichaelNumber.cc)  
+
+
 ####[138 Street Numbers](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=74)  
 math  
 <img src='http://latex.numberempire.com/render?n%20%3D%202l%20%2B%201%20%2B%20%5Csqrt%7B8l%5E2%2B8l%2B1%7D&sig=42d9339cb1c1ccd4ac731d60dc41c18c' alt='n = 2l + 1 + \sqrt{8l^2+8l+1}' />  
