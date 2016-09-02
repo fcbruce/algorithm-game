@@ -1827,6 +1827,10 @@ KMP
 
 ##[UVa](code/UVA/)
 
+####[11121 Base -2](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2062)  
+implement  
+[code](code/UVA/11121_Base-2.cc)  
+
 ####[128 Software CRC](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=64)  
 implement, CRC, divide  
 [code](code/UVA/128_SoftwareCRC.cc)  
