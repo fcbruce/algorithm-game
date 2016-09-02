@@ -1827,10 +1827,21 @@ KMP
 
 ##[UVa](code/UVA/)
 
+####[128 Software CRC](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=64)  
+implement, CRC, divide  
+[code](code/UVA/128_SoftwareCRC.cc)  
+
+####[106 Fermat vs. Pythagoras](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=42)  
+[Pythagorean triple](https://en.wikipedia.org/wiki/Pythagorean_triple)  
+[code](code/UVA/106_FermatvsPythagoras.cc)  
+
+####[10673 Play with Floor and Ceil](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1614)  
+exgcd  
+[code](10673_PlaywithFloorandCeil.cc)  
+
 ####[10006 Carmichael Numbers](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=947)  
 random test, quick power  
 [code](code/UVA/10006_CarmichaelNumber.cc)  
-
 
 ####[138 Street Numbers](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=74)  
 math  
