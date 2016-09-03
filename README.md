@@ -1827,6 +1827,10 @@ KMP
 
 ##[UVa](code/UVA/)
 
+####[10791 Minimum Sum LCM](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1732)  
+prime factor  
+[code](code/UVA/10791_MinimumSumLCM.cc)  
+
 ####[11121 Base -2](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2062)  
 implement  
 [code](code/UVA/11121_Base-2.cc)  
