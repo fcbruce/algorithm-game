@@ -1827,6 +1827,10 @@ KMP
 
 ##[UVa](code/UVA/)
 
+####[10820 Send a Table](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1761)  
+Euler function  
+[code](code/UVA/10820_SendaTable.cc)  
+
 ####[10717 Mint](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1658)  
 lcm, brute force  
 [code](code/UVA/10717_Mint.cc)  
