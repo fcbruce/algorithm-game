@@ -1827,6 +1827,10 @@ KMP
 
 ##[UVa](code/UVA/)
 
+####[571 Jugs](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=512)  
+ax + by = c, exgcd  
+[code](code/UVA/571_Jugs.cc)  
+
 ####[10820 Send a Table](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1761)  
 Euler function  
 [code](code/UVA/10820_SendaTable.cc)  
