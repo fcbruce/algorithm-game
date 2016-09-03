@@ -1827,6 +1827,10 @@ KMP
 
 ##[UVa](code/UVA/)
 
+####[10717 Mint](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1658)  
+lcm, brute force  
+[code](code/UVA/10717_Mint.cc)  
+
 ####[10791 Minimum Sum LCM](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1732)  
 prime factor  
 [code](code/UVA/10791_MinimumSumLCM.cc)  
