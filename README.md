@@ -1827,6 +1827,10 @@ KMP
 
 ##[UVa](code/UVA/)
 
+####[10308 RoadsintheNorth](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1249)  
+Diameter of a Tree  
+[code](code/UVA/10308_RoadsinthrNorth.cc)  
+
 ####[11029 LeadingandTrailing](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1970)  
 We use lg to calculate the first three digits.  
 <img src='http://latex.numberempire.com/render?n%5Ek%20%3D%201.f%20%2A%2010%5Ep&sig=812de1d8c51c5bd5a01c8a0afc480b63' alt='n^k = 1.f * 10^p' />  
