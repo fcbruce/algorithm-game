@@ -1827,6 +1827,14 @@ KMP
 
 ##[UVa](code/UVA/)
 
+####[11029 LeadingandTrailing](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1970)  
+We use lg to calculate the first three digits.  
+<img src='http://latex.numberempire.com/render?n%5Ek%20%3D%201.f%20%2A%2010%5Ep&sig=812de1d8c51c5bd5a01c8a0afc480b63' alt='n^k = 1.f * 10^p' />  
+<img src='http://latex.numberempire.com/render?%5Clg%20n%5Ek%20%3D%20k%20%5Clg%20n&sig=41fbf4c778fb9f8fdf138c15dfcf43e1' alt='\lg n^k = k \lg n ' />  
+<img src='http://latex.numberempire.com/render?i%20%2B%20f%20%3D%20%5Clg%20n%5Ek%20%3D%20k%20%5Clg%20n%2C%20%5Ctext%7Bi%20is%20integer%20and%20f%20is%20fraction%7D&sig=4e6e3abc0efce32159e87bbbc2157c78' alt='i + f = \lg n^k = k \lg n, \text{i is integer and f is fraction}' />  
+<img src='http://latex.numberempire.com/render?10%5E%7Bi%2Bf%7D%20%3D%2010%5Ef%2B10%5Ei&sig=e8a7b68b556a5161187031deebacdf57' alt='10^{i+f} = 10^f+10^i ' />  
+The first three digits is 10<sup>f</sup> * 100.  
+
 ####[571 Jugs](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=512)  
 ax + by = c, exgcd  
 [code](code/UVA/571_Jugs.cc)  
