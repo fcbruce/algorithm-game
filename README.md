@@ -1827,6 +1827,10 @@ KMP
 
 ##[UVa](code/UVA/)
 
+####[10105 Polynomial Coefficients](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1046)  
+Combination  
+[code](code/UVA/10105_PolynomialCoefficients.cc)  
+
 ####[10308 RoadsintheNorth](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1249)  
 Diameter of a Tree  
 [code](code/UVA/10308_RoadsinthrNorth.cc)  

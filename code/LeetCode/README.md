@@ -30,8 +30,15 @@ implementation
 ####[9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) 
 implementation
 
+####[10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)  
+dp   
+`dp[i][j]` repersent the state of the first i characters of s and the first j characters of j.   
+
 ####[11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)  
 two pointer  
+
+####[15. 3Sum](https://leetcode.com/problems/3sum/)  
+two ponier  
 
 ####[316. Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)  
 stack, statistics  
