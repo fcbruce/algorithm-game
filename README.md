@@ -1827,6 +1827,11 @@ KMP
 
 ##[UVa](code/UVA/)
 
+####[10375 Choose and divide](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=115&page=show_problem&problem=1316)  
+Combination 
+<img src="http://www.sciweavers.org/tex2img.php?eq=%5Cmathrm%7BC%7D_n%5Ek%20%3D%20%5Cfrac%7Bn-k%2B1%7D%7Bk%7D%5Cmathrm%7BC%7D_n%5E%7Bk-1%7D&bc=White&fc=Black&im=jpg&fs=12&ff=mathdesign&edit=0" align="center" border="0" alt="\mathrm{C}_n^k = \frac{n-k+1}{k}\mathrm{C}_n^{k-1}" width="147" height="36" />  
+[code](code/UVA/10375_Chooseanddivide.cc)  
+
 ####[10105 Polynomial Coefficients](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1046)  
 Combination  
 [code](code/UVA/10105_PolynomialCoefficients.cc)  
