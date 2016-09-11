@@ -1839,9 +1839,18 @@ KMP
 
 ##[UVa](code/UVA/)
 
+####[10056 What is the Probability ?](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=997)  
+[Geometric series](https://en.wikipedia.org/wiki/Geometric_series), Probability  
+<img src='http://latex.numberempire.com/render?P%3D%5Csum_%7Bi%3D0%7D%5E%7B%5Cinfty%7D%281-p%29%5E%7Bin%7D%281-p%29%5E%7Bk-1%7Dp%3D%5Cfrac%7B%281-p%29%5E%7Bk-1%7Dp%7D%7B1-%281-p%29%5En%7D&sig=71149318c51ecc392ef7b2d9c188b73f' alt='P=\sum_{i=0}^{\infty}(1-p)^{in}(1-p)^{k-1}p=\frac{(1-p)^{k-1}p}{1-(1-p)^n}' />  
+[code](code/UVA/10056_WhatistheProbability.cc)  
+
+####[11027 Palindromic Permutation](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1968)  
+k-th Permutation  
+[code](code/UVA/11027_PalindromicPermutation.cc)  
+
 ####[10375 Choose and divide](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=115&page=show_problem&problem=1316)  
 Combination  
-<img src='http://latex.numberempire.com/render?%5Cmathrm%7BC%7D_n%5Ek%20%3D%20%5Cfrac%7Bn-k%2B1%7D%7Bk%7D%5Cmathrm%7BC%7D_n%5E%7Bk-1%7D&sig=62d2a6f18081665e1ed3b9d373823d21' alt='\mathrm{C}_n^k = \frac{n-k+1}{k}\mathrm{C}_n^{k-1}' />
+<img src='http://latex.numberempire.com/render?%5Cmathrm%7BC%7D_n%5Ek%20%3D%20%5Cfrac%7Bn-k%2B1%7D%7Bk%7D%5Cmathrm%7BC%7D_n%5E%7Bk-1%7D&sig=62d2a6f18081665e1ed3b9d373823d21' alt='\mathrm{C}_n^k = \frac{n-k+1}{k}\mathrm{C}_n^{k-1}' />  
 [code](code/UVA/10375_Chooseanddivide.cc)  
 
 ####[10105 Polynomial Coefficients](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1046)  
