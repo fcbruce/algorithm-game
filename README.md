@@ -224,7 +224,19 @@ bfs,水
 
 ##[HDU](code/HDU/)
 
-####[4513 吉哥系列故事————完美队形II](http://acm.hdu.edu.cn/showproblem.php?pid=4513)  
+####[5875 Function](http://acm.hdu.edu.cn/showproblem.php?pid=5875)  
+Segment Tree  
+[code](code/HDU/5875_Function.cc)  
+
+####[5876 Sparse Graph](http://acm.hdu.edu.cn/showproblem.php?pid=5876)  
+bfs  
+[code](code/HDU/5876_SparseGraph.cc)  
+
+####[5877 Weak Pair](http://acm.split.hdu.edu.cn/showproblem.php?pid=5877)  
+dfs, Segment Tree  
+[code](code/HDU/5877_WeakPair.cc)  
+
+####[4513 吉哥系列故事————](http://acm.hdu.edu.cn/showproblem.php?pid=4513)  
 manacher  
 [code](code/HDU/4513_吉哥系列故事完美队形II.cc)
 
@@ -1031,7 +1043,7 @@ init
 ##[LA(UVa Live)](https://icpcarchive.ecs.baylor.edu/index.php)  
 
 ####[2570 Shredding Company](https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&category=120&page=show_problem&problem=571)  
-dfs 
+dfs  
 [code](code/LA/2570_ShreddingCompany.cc)  
 
 
@@ -1828,7 +1840,7 @@ KMP
 ##[UVa](code/UVA/)
 
 ####[10375 Choose and divide](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=115&page=show_problem&problem=1316)  
-Combination 
+Combination  
 <img src="http://www.sciweavers.org/tex2img.php?eq=%5Cmathrm%7BC%7D_n%5Ek%20%3D%20%5Cfrac%7Bn-k%2B1%7D%7Bk%7D%5Cmathrm%7BC%7D_n%5E%7Bk-1%7D&bc=White&fc=Black&im=jpg&fs=12&ff=mathdesign&edit=0" align="center" border="0" alt="\mathrm{C}_n^k = \frac{n-k+1}{k}\mathrm{C}_n^{k-1}" width="147" height="36" />  
 [code](code/UVA/10375_Chooseanddivide.cc)  
 
