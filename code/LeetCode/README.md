@@ -40,8 +40,11 @@ two pointer
 ####[15. 3Sum](https://leetcode.com/problems/3sum/)  
 two ponier  
 
-####[16. #Sum Cloest](https://leetcode.com/problems/3sum-closest/)  
+####[16. 3Sum Cloest](https://leetcode.com/problems/3sum-closest/)  
 two pointer  
+
+####[17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)  
+dfs  
 
 ####[316. Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)  
 stack, statistics  
