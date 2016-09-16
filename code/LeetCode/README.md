@@ -52,5 +52,8 @@ two pointer
 ####[22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)  
 dfs  
 
+####[23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)  
+merge, heap  
+
 ####[316. Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)  
 stack, statistics  
