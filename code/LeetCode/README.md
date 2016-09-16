@@ -46,5 +46,8 @@ two pointer
 ####[17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)  
 dfs  
 
+####[18. 4Sum](https://leetcode.com/problems/4sum/)  
+two pointer  
+
 ####[316. Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)  
 stack, statistics  
