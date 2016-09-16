@@ -27,7 +27,7 @@ implementation
 ####[8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)
 implementation
 
-####[9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) 
+####[9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
 implementation
 
 ####[10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)  
@@ -54,6 +54,12 @@ dfs
 
 ####[23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)  
 merge, heap  
+
+####[24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)  
+linked list  
+
+####[25. Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)  
+linked list, reverse  
 
 ####[316. Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)  
 stack, statistics  
