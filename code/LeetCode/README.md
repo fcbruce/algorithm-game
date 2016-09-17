@@ -61,5 +61,8 @@ linked list
 ####[25. Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)  
 linked list, reverse  
 
+####[29. Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)  
+binary search  
+
 ####[316. Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)  
 stack, statistics  
