@@ -229,7 +229,7 @@ bfs,水
 [code](code/HDU/5880_FamilyView.cc)  
 
 ####[5881 Tea](http://acm.hdu.edu.cn/showproblem.php?pid=5881)  
-l / 2 + 0.5, l / 2 + 0.5, 2, 2, ...  
+l / 2 + 0.5, l / 2 + 0.5 + 1, 2, 2, ...  
 Consider l = 0 !  
 [code](code/HDU/5881_Tea.cc)  
 
