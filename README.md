@@ -224,6 +224,23 @@ bfs,水
 
 ##[HDU](code/HDU/)
 
+####[5880 Family View](http://acm.hdu.edu.cn/showproblem.php?pid=5880)  
+[Aho-Corasick](https://en.wikipedia.org/wiki/Aho%E2%80%93Corasick_algorithm)  
+[code](code/HDU/5880_FamilyView.cc)  
+
+####[5881 Tea](http://acm.hdu.edu.cn/showproblem.php?pid=5881)  
+l / 2 + 0.5, l / 2 + 0.5, 2, 2, ...  
+Consider l = 0 !  
+[code](code/HDU/5881_Tea.cc)  
+
+####[5882 Balanced Game](http://acm.hdu.edu.cn/showproblem.php?pid=5882)  
+n is odd  
+[code](code/HDU/5882_BalancedGame.cc)  
+  
+####[5889 Barricade](http://acm.hdu.edu.cn/showproblem.php?pid=5889)  
+bfs, network flow  
+[code](code/HDU/5889_Barricade.cc)  
+
 ####[5875 Function](http://acm.hdu.edu.cn/showproblem.php?pid=5875)  
 Segment Tree  
 [code](code/HDU/5875_Function.cc)  
