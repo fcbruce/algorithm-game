@@ -236,6 +236,10 @@ Consider l = 0 !
 ####[5882 Balanced Game](http://acm.hdu.edu.cn/showproblem.php?pid=5882)  
 n is odd  
 [code](code/HDU/5882_BalancedGame.cc)  
+
+####[5884 Sort](http://acm.hdu.edu.cn/showproblem.php?pid=5884)  
+Huffman Tree, binary search, sort, monotonous queue  
+[code](code/HDU/5884_Sort.cc)  
   
 ####[5889 Barricade](http://acm.hdu.edu.cn/showproblem.php?pid=5889)  
 bfs, network flow  
