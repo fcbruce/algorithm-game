@@ -64,5 +64,8 @@ linked list, reverse
 ####[29. Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)  
 binary search  
 
+####[32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)  
+stack, idea  
+
 ####[316. Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)  
 stack, statistics  
