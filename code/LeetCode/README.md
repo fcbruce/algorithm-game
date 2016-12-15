@@ -70,5 +70,8 @@ stack, idea
 #### [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)  
 binary search    
 
+#### [81. Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)  
+binary search  
+
 #### [316. Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)  
 stack, statistics  
