@@ -70,6 +70,12 @@ stack, idea
 #### [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)  
 binary search    
 
+#### [34. Search for a Range](https://leetcode.com/problems/search-for-a-range/)  
+binary search  
+
+#### [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/)  
+binary search  
+
 #### [81. Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)  
 binary search  
 
