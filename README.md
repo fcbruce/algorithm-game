@@ -21,6 +21,10 @@ dp,dp[i][j]表示i到j构成回文串最少要添加的字符
 
 ##[Codeforces](code/CF/)
 
+#### [754B Ilya and tic-tac-toe game](http://codeforces.com/contest/754/problem/B)  
+stupid implement  
+[code](code/CF/754B_Ilyaandtic-tac-toegame.cc)  
+
 ####[688C HP-Hard Problem](http://codeforces.com/contest/688/problem/C)  
 easy dfs  
 [code](code/CF/688C_NP-HardProblem.cc)  
