@@ -76,6 +76,12 @@ binary search
 #### [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/)  
 binary search  
 
+#### [39. Combination Sum](https://leetcode.com/problems/combination-sum/)  
+dfs  
+
+#### [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)  
+dfs  
+
 #### [81. Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)  
 binary search  
 
