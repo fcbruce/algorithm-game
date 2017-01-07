@@ -82,6 +82,9 @@ dfs
 #### [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)  
 dfs  
 
+#### [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/)  
+hard, interesting  
+
 #### [81. Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)  
 binary search  
 
