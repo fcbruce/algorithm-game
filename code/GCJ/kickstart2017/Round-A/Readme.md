@@ -1,4 +1,4 @@
-[Kickstart 2017](https://code.google.com/codejam/contest/8284486/dashboard)
+[Kickstart 2017 - Round A](https://code.google.com/codejam/contest/8284486/dashboard)
 ====
 
 #### Problem A. Square Counting  
